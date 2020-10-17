@@ -1,8 +1,8 @@
-![myriacat](../master/myriacat.gif)
+![myriacat](../master/myriacat.png)
 
 or
 
-![myriacat](https://github.com/myriacat/myriacat/blob/master/myriacat.gif)
+![myriacat](https://github.com/myriacat/myriacat/blob/master/myriacat.png)
 
 ## *myriacat* - real time spectrum analyzer for Linux
 - intuitive, dynamic user interface
