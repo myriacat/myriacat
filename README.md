@@ -1,9 +1,5 @@
 ![screenshot](../main/myriacat.png)
 
-or
-
-![screenshot2](https://github.com/myriacat/myriacat/blob/main/myriacat.png)
-
 ## *myriacat* - real time spectrum analyzer for Linux
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
