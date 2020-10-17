@@ -1,4 +1,4 @@
-![screenshot](../main/myriacat.png)
+![screenshot](../main/myriacat.gif)
 
 ## *myriacat* - real time spectrum analyzer for Linux
 - intuitive, dynamic user interface
