@@ -1,16 +1,27 @@
-### Hi there 👋
+![myriacat](../master/myriacat.gif)
 
-<!--
-**myriacat/myriacat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *myriacat* - real time spectrum analyzer for Linux
+- intuitive, dynamic user interface
+- logarithmic view with A-weighting for audio engineering
+- linear mode with sideband receiver for signal hunting
+- phase correlation meter, vectorscope, oscilloscope & cepstrum
+- fast power spectrum with smooth waterfall spectogram
+- in-house DSP kernel<br><br>
 
-Here are some ideas to get you started:
+### Download
+get the latest version of [myriacat](https://github.com/myriacat/myriacat/releases/download/v1.0_beta/myriacat_v1.0_beta.tar.gz) here.<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Install
+myriacat is portable. open zip folder and type `./myriacat` to run.<br>
+on exit, the file `myriaconf.txt` with editable input devices is created.<br>
+minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
+
+### First use
+Mint, Ubuntu and other Pulseaudio distributions can use `pavucontrol` to<br>
+capture from `monitor of built-in Audio` for internal audio monitoring<br><br>
+
+### License
+See the [LICENSE](../master/LICENSE.txt) file for details.<br><br>
+
+### feed the cat
+Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
