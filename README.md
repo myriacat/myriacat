@@ -11,6 +11,11 @@
 ### Download
 get the latest version of [myriacat](https://github.com/myriacat/myriacat/releases/download/v1.0_beta/myriacat_v1.0_beta.tar.gz) here.<br><br>
 
+or
+
+[myriacat](../releases/download/v1.0_beta/myriacat_v1.0_beta.tar.gz)
+
+
 ### Install
 myriacat is portable. open zip folder and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br>
