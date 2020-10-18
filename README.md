@@ -13,7 +13,8 @@ get the latest version of [myriacat](https://github.com/myriacat/myriacat/releas
 
 or
 
-[myriacat](../releases/download/v1.0_beta/myriacat_v1.0_beta.tar.gz)
+[myriacat](/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)
+
 
 
 ### Install
