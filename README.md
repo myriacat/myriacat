@@ -9,13 +9,7 @@
 - in-house DSP kernel<br><br>
 
 ### Download
-get the latest version of [myriacat](https://github.com/myriacat/myriacat/releases/download/v1.0_beta/myriacat_v1.0_beta.tar.gz) here.<br><br>
-
-or
-
-[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)
-
-
+get the latest version of [myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz) here.<br><br>
 
 ### Install
 myriacat is portable. open zip folder and type `./myriacat` to run.<br>
