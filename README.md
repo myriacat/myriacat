@@ -13,7 +13,7 @@ get the latest version of [myriacat](https://github.com/myriacat/myriacat/releas
 
 or
 
-[myriacat](/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)
+[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)
 
 
 
