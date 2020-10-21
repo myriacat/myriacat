@@ -21,7 +21,7 @@ Mint, Ubuntu and other Pulseaudio distributions can use `pavucontrol` to<br>
 capture from `monitor of built-in Audio` for internal audio monitoring<br><br>
 
 ### License
-See the [LICENSE](../master/LICENSE.txt) file for details.<br><br>
+See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
 
 ### feed the cat
 Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
