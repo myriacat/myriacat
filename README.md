@@ -18,28 +18,11 @@ on exit, the file `myriaconf.txt` with editable input devices is created.<br>
 minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
-<details>
-<summary><h2>stuff</h2>  <sub><sup>click to expand</sup></sub></summary>
-
-blabla test<br>
-</details>
-
 
 
 
 <details>
-<summary><b>stuff</b>  <sub><sup>click to expand</sup></sub></summary>
-
-blabla test<br>
-</details>
-
-
-
-
-
-<details>
-<summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
-<!-- have to be followed by an empty line! -->
+<summary><b>stuff</b>  <sub><sup><i>click to expand</i></sup></sub></summary>
 
 blabla test<br>
 </details>
@@ -48,27 +31,6 @@ blabla test<br>
 
 
 
-
-
-### FAQ  <sub><sup>combining the two tags</sup></sub>
-
-
-
-
-<details>
-<summary>### FAQ(click to expand)</summary><br>
-blabla test<br>
-</details>
-
-<details>
-<summary>**FAQ(click to expand)**</summary><br>
-blabla test<br>
-</details>
-
-<details>
-<summary><h1>FAQ</h1>(click to expand)</summary><br>
-blabla test<br>
-</details>
 
 
 
