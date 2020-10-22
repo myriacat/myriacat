@@ -19,6 +19,16 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
 <details>
+<summary><b>stuff</b>  <sub><sup>click to expand</sup></sub></summary>
+
+blabla test<br>
+</details>
+
+
+
+
+
+<details>
 <summary><u>nested</u> <b>stuff</b> (<i>click to expand</i>)</summary>
 <!-- have to be followed by an empty line! -->
 
