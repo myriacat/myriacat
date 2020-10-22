@@ -23,11 +23,13 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 <summary>(click to unroll)</summary>
 
 **no signals are shown when music/youtube/etc.. is played:**<br>
-linux does not route the speaker-output back to programs.<br><br>
+linux does not route the speaker-output back to programs.<br>
 you need a virtual adapter, a software or a hardware loopback (cable)<br>
-easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.
+easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
+
 **only 44k1 and 48k sps are selectable**<br>
 those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
+
 **playback of a 192kHz audiofile is cutoff at 24kHz**<br>
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
 to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).<br>
@@ -35,21 +37,26 @@ to monitor recorded samples, the alsa config of linux needs to be modifed, as it
 
 ### applications:
 <details>
-<summary>(click to unroll)</summary>  
+<summary>(click to unroll)</summary> 
+  
 **logarithmic audio view:**<br>
-real time monitoring, lossy compression quality analysis.
+real time monitoring, lossy compression quality analysis.<br>
+
 **linear view:**<br>
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>  
 ELF, VLF ,Schumann resonances, lightinings, whistlers, sferics,<br>
 time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ),<br>
 naval/marine/submarine communications, aviation beacons, alpha navigation,<br>
 bat detector<br>
+
 **upper sideband demodulator:**<br>
-select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz
+select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
+
 **spectrogram:**<br>
-logging and averaging of data up to one year.
+logging and averaging of data up to one year.<br>
+
 **cepstrum:**<br>
-inspection of motors and gearboxes, speaker detection
+inspection of motors and gearboxes, speaker detection<br>
 </details><br>
 
 
