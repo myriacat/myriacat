@@ -19,8 +19,10 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
 
-<h3><details><summary>stuff with <em>mark</em> <strong>down</strong></summary><p><br></h3>
-this is just blabla</details>
+<h3><details><summary>stuff with <em>mark</em> <strong>down</strong></summary></h3><br>
+
+this is just blabla
+</details>
 
 
 
