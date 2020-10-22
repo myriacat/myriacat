@@ -8,9 +8,7 @@
 - fast power spectrum with smooth waterfall spectogram up to **4K Fullscreen!**
 - multithreaded in-house DSP kernel<br><br>
 
-<p align="center">
-  <img src="../main/block_diagram.png" width="480" />
-</p>
+<img src="../main/block_diagram.png" width="480" />
 
 
 <b>usage</b><br>
