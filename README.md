@@ -31,7 +31,7 @@ those are the supported hardware rates. to use other samplerates, use a software
 
 **playback of a 192kHz audiofile is cutoff at 24kHz**<br>
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
-to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).<br>
+to monitor recorded samples, the alsa config of linux needs to be modified, as its usually capped at 48ksps (24khz).<br>
 </details><br>
 
 
