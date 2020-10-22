@@ -105,8 +105,8 @@ inspection of motors and gearboxes, speaker detection<br>
 </details><br>
 
 
-### License
+<b>License</b>
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
 
-### feed the cat
+<b>feed the cat</b>
 Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
