@@ -20,7 +20,7 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 <details>
 <summary>no signals are shown</summary>
-linux does not route the speaker-output back to programs. you need a software or hardware loopback (cable)
+linux does not route the speaker-output back to programs. you need a software or hardware loopback (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.
 </details>
 
@@ -46,6 +46,7 @@ most of the test files on various audio-sites are not what they claim to be.<br>
 if you have a file with actual 192kHz sps (96kHz signal) it will be show on myriacat.<br>
 for output over the playback device, you also need to change linux alsa configs, as they are capped at 48ksps.
 </details>
+<br>
 
 
 ### License
