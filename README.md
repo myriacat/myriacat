@@ -43,7 +43,7 @@ real time monitoring, lossy compression quality analysis.<br>
 
 **linear view:**<br>
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>
-ELF, VLF, Schumann resonances, lightinings, whistlers, sferics, bat detector<br>
+ELF, VLF, Schumann resonances, lightnings, whistlers, spherics, bat detector<br>
 time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ),<br>
 naval/marine/submarine communications, aviation beacons, alpha navigation,<br>
 
@@ -53,7 +53,7 @@ select, filter, up/downconvert and listen to selected bandwidths from 270 millih
 **spectrogram:**<br>
 logging and averaging of data up to one year.<br>
 
-**oscilliscope**<br>
+**oscilloscope**<br>
 signal integrity and continuity, clipping and distortions<br>
 
 **vectorscope**<br>
