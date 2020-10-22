@@ -18,6 +18,39 @@ on exit, the file `myriaconf.txt` with editable input devices is created.<br>
 minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
+<details>
+<h3><summary>stuff</summary><br></h3>
+
+this is just blabla<br>
+</details>
+
+
+
+
+
+<h3><details>
+<summary>stuff</summary><br></h3>
+
+this is just blabla<br>
+</details>
+
+
+
+
+
+
+
+
+
+<h3><details>
+<summary>stuff</summary><br>
+
+this is just blabla<br>
+</details>
+</h3>
+
+
+
 
 <h3><details><summary>stuff with <em>mark</em> <strong>down</strong></summary></h3><br>
 
