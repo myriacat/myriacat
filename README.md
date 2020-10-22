@@ -21,6 +21,29 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 ### FAQ  <sub><sup>combining the two tags</sup></sub>
 
 
+
+
+<details>
+<summary>### FAQ(click to expand)</summary><br>
+blabla test<br>
+</details>
+
+<details>
+<summary>**FAQ(click to expand)**</summary><br>
+blabla test<br>
+</details>
+
+<details>
+<summary>
+  <h1>FAQ</h1>
+  (click to expand)</summary><br>
+blabla test<br>
+</details>
+
+
+
+
+
 ### FAQ
 <details>
 <summary>(click to expand)</summary><br>
