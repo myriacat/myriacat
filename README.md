@@ -3,7 +3,7 @@
 ## *myriacat* - real time spectrum analyzer for Linux
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
-- linear mode with sideband receiver for signal hunting
+- linear mode with sideband demodulator for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
 - fast power spectrum with smooth waterfall spectogram up to 4K Fullscreen!
 - in-house DSP kernel<br><br>
