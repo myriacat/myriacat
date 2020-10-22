@@ -15,6 +15,7 @@
 download the latest portable version of [myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz) here, 
 open zip folder and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br><br>
+minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br>
 
 
 <big>FAQ</big><small>(click to unfold)</small>
@@ -28,28 +29,26 @@ Normal text
 **FAQ**<sub><sup>(click to unroll)</sup></sub>
 
 
-### FAQ  <sub><sup>(click to unroll)</sup></sub>
+### FAQ
 <details>
-<summary>no signals are shown when music/youtube/etc.. is played</summary>
-linux does not route the speaker-output back to programs.<br>
+<summary>(click to unroll)</summary>
+
+**no signals are shown when music/youtube/etc.. is played:**<br>
+linux does not route the speaker-output back to programs.<br><br>
 you need a virtual adapter, a software or a hardware loopback (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.
-</details><details><summary>only 44k1 and 48k sps are selectable</summary>
-those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).
-</details><details>
-<summary>playback of a 192kHz audiofile is cutoff at 24kHz</summary>
-192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
-to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).
-</details>
 
-<details>
-<summary>minimum requirements - "no usable device found"</summary>
-minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br>
+**only 44k1 and 48k sps are selectable**<br>
+those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
+
+**playback of a 192kHz audiofile is cutoff at 24kHz**<br>
+192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
+to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).<br>
+
 </details><br>
 
 
 ### applications:
-
 <details>
 <summary>(click to unroll)</summary>
   
