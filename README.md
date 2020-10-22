@@ -19,7 +19,7 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
 <details>
-<summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
+<summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
 
 **no signals are shown when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
@@ -32,11 +32,11 @@ those are the supported hardware rates. to use other samplerates, use a software
 **playback of a 192kHz audiofile is cutoff at 24kHz**<br>
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
 to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).<br>
-</details>
+</details><br>
 
 
 <details>
-<summary><b>applications:FAQ</b> <sub><sup><i>click to expand</i></sup></sub></summary>
+<summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
 
 **logarithmic audio view:**<br>
 real time monitoring, lossy compression quality analysis.<br>
