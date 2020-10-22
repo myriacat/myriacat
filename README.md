@@ -18,21 +18,14 @@ on exit, the file `myriaconf.txt` with editable input devices is created.<br><br
 
 
 ### FAQ
-
-<h3>FAQ</h3><sup>(click to expand)</sub>
 <details>
 <summary>no signals are shown when music/youtube/etc.. is played</summary>
 linux does not route the speaker-output back to programs.<br>
 you need a virtual adapter, a software or a hardware loopback (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.
-</details>
-
-<details>
-<summary>only 44k1 and 48k sps are selectable</summary>
+</details><details><summary>only 44k1 and 48k sps are selectable</summary>
 those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).
-</details>
-
-<details>
+</details><details>
 <summary>playback of a 192kHz audiofile is cutoff at 24kHz</summary>
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
 to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).
