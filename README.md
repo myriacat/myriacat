@@ -20,7 +20,7 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 ### FAQ
 <details>
-<summary>(click to unroll)</summary>
+<summary>(click to expand)</summary><br>
 
 **no signals are shown when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
@@ -37,7 +37,7 @@ to monitor recorded samples, the alsa config of linux needs to be modifed, as it
 
 ### applications:
 <details>
-<summary>(click to unroll)</summary> 
+<summary>(click to expand)</summary><br>
   
 **logarithmic audio view:**<br>
 real time monitoring, lossy compression quality analysis.<br>
