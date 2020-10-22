@@ -53,6 +53,15 @@ select, filter, up/downconvert and listen to selected bandwidths from 270 millih
 **spectrogram:**<br>
 logging and averaging of data up to one year.<br>
 
+**oscilliscope**<br>
+signal integrity and continuity, clipping and distortions<br>
+
+**vectorscope**<br>
+polar view of stereo image width and position<br>
+
+**phase correlation meter**<br>
+mono compatibility of the stereo signal<br>
+
 **cepstrum:**<br>
 inspection of motors and gearboxes, speaker detection<br>
 </details><br>
