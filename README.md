@@ -36,16 +36,17 @@ those are the supported hardware rates. to use other samplerates, use a software
 
 <details>
 <summary>the speed/view/size on my 8K, 400FPS monitor is bad</summary>
-dont use vsync, myriacat is tested for up to 2K, 50-120fps monitors at this time.
+dont use vsync, myriacat is tested for up to 2K, 50-120fps monitors at this time.<br>
 if the UI is too small on high-dpi devices, you will need to find a way to upscale the program.
 </details>
 
 <details>
 <summary>playback of a 192kHz audiofile is cutoff at 24kHz</summary>
-most of the test files on various audio-sites are not what they claim to be.
-if you have a file with actual 192kHz sps (96kHz signal) it will be show on myriacat.
+most of the test files on various audio-sites are not what they claim to be.<br>
+if you have a file with actual 192kHz sps (96kHz signal) it will be show on myriacat.<br>
 for output over the playback device, you also need to change linux alsa configs, as they are capped at 48ksps.
 </details>
+
 
 ### License
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
