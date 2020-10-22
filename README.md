@@ -74,7 +74,8 @@ inspection of motors and gearboxes, speaker detection
 </details><br>
 
 
-So this is normal text ^and this is tiny text^.
+
+<sup>this is tiny text<sub>
 
 
 ### License
