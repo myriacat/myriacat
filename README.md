@@ -8,20 +8,15 @@
 - fast power spectrum with smooth waterfall spectogram up to **4K Fullscreen!**
 - in-house DSP kernel<br><br>
 
-
-<p float="left">
-  <img src="../main/block_diagram.png" width="480" />
-      
-  <img src="../main/mini_screen.png" width="240" /> 
-</p>
-
+<img src="../main/block_diagram.png" width="480" />
 
 ### Download
 get the latest version of [myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz) here.<br><br>
 
 
 ### Usage
-myriacat is portable. open zip folder and type `./myriacat` to run.<br>
+download the latest portable version of [myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz) here, 
+open zip folder and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br><br>
 
 
