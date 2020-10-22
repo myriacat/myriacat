@@ -16,7 +16,6 @@ get the latest version of [myriacat](https://github.com/myriacat/myriacat/releas
 ### Usage
 myriacat is portable. open zip folder and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br>
-minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
 ### FAQ
@@ -36,6 +35,11 @@ those are the supported hardware rates. to use other samplerates, use a software
 <summary>playback of a 192kHz audiofile is cutoff at 24kHz</summary>
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
 to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).
+</details>
+
+<details>
+<summary>minimum requirements - "no usable device found" </summary>
+minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br>
 </details><br>
 
 
