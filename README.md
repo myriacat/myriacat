@@ -18,6 +18,8 @@ on exit, the file `myriaconf.txt` with editable input devices is created.<br><br
 
 
 ### FAQ
+
+<h3>FAQ</h3><sup>(click to expand)<sub>
 <details>
 <summary>no signals are shown when music/youtube/etc.. is played</summary>
 linux does not route the speaker-output back to programs.<br>
@@ -75,7 +77,7 @@ inspection of motors and gearboxes, speaker detection
 
 
 
-<sup>this is tiny text<sub>
+
 
 
 ### License
