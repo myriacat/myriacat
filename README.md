@@ -20,6 +20,31 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 Mint, Ubuntu and other Pulseaudio distributions can use `pavucontrol` to<br>
 capture from `monitor of built-in Audio` for internal audio monitoring<br><br>
 
+### FAQ
+
+<details>
+<summary>no signals are shown</summary>
+linux does not route the speaker-output back to programs. you need a software or hardware loopback (cable)
+easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.
+this setting will apply only for this one program, and is therefore the least invasive way.
+</details>
+
+<details>
+<summary>scrolltime is not shown</summary>
+the time depends on sps, decimation and screensize. its not shown in vsync or logarithm mode.
+</details>
+<details>
+<summary>can't use sps other then 44k1 and 48k</summary>
+those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).
+</details>
+
+
+
+
+
+
+
+
 ### License
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
 
