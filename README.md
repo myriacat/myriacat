@@ -16,34 +16,36 @@ myriacat is portable. open zip folder and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br>
 minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
-### First use
-Mint, Ubuntu and other Pulseaudio distributions can use `pavucontrol` to<br>
-capture from `monitor of built-in Audio` for internal audio monitoring<br><br>
-
 ### FAQ
 
 <details>
 <summary>no signals are shown</summary>
 linux does not route the speaker-output back to programs. you need a software or hardware loopback (cable)
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.
-this setting will apply only for this one program, and is therefore the least invasive way.
 </details>
 
 <details>
 <summary>scrolltime is not shown</summary>
 the time depends on sps, decimation and screensize. its not shown in vsync or logarithm mode.
 </details>
+
 <details>
 <summary>can't use sps other then 44k1 and 48k</summary>
 those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).
 </details>
 
+<details>
+<summary>the speed/view/size on my 8K, 400FPS monitor is bad</summary>
+dont use vsync, myriacat is tested for up to 2K, 50-120fps monitors at this time.
+if the UI is too small on high-dpi devices, you will need to find a way to upscale the program.
+</details>
 
-
-
-
-
-
+<details>
+<summary>playback of a 192kHz audiofile is cutoff at 24kHz</summary>
+most of the test files on various audio-sites are not what they claim to be.
+if you have a file with actual 192kHz sps (96kHz signal) it will be show on myriacat.
+for output over the playback device, you also need to change linux alsa configs, as they are capped at 48ksps.
+</details>
 
 ### License
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
