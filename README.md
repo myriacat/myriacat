@@ -17,7 +17,10 @@ open zip folder and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br><br>
 
 
-<big>FAQ</big><small>(click to unfold</small>
+<big>FAQ</big><small>(click to unfold)</small>
+
+Normal text
+<sub><sup>Small text</sup></sub>
 
 
 ### FAQ
