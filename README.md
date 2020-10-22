@@ -5,7 +5,7 @@
 - logarithmic view with A-weighting for audio engineering
 - linear mode with sideband demodulator for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
-- fast power spectrum with smooth waterfall spectogram up to 4K Fullscreen!
+- fast power spectrum with smooth waterfall spectogram up to **4K Fullscreen!**
 - in-house DSP kernel<br><br>
 
 
@@ -15,7 +15,7 @@ get the latest version of [myriacat](https://github.com/myriacat/myriacat/releas
 
 ### Usage
 myriacat is portable. open zip folder and type `./myriacat` to run.<br>
-on exit, the file `myriaconf.txt` with editable input devices is created.<br>
+on exit, the file `myriaconf.txt` with editable input devices is created.<br><br>
 
 
 ### FAQ
