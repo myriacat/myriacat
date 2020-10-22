@@ -51,31 +51,26 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br>
 ### applications:
 
 <details>
-<summary>### logarithmic audio view</summary>
-real time monitoring, lossy compression quality analysis.
-</details>
-
+<summary>applications:</summary>
 <details>
-<summary>**linear view**</summary>
+  
+**logarithmic audio view:**
+real time monitoring, lossy compression quality analysis.
+
+**linear view:**
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>  
 ELF, VLF ,Schumann resonances, lightinings, whistlers, sferics,<br>
 time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ),<br>
 naval/marine/submarine communications, aviation beacons, alpha navigation,<br>
-bat detector
-</details>
+bat detector<br>
 
-<details>
-<summary>upper sideband demodulator</summary>
+**upper sideband demodulator:**
 select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz
-</details>
 
-<details>
-<summary>spectrogram</summary>
+**spectrogram:**
 logging and averaging of data up to one year.
-</details>
 
-<details>
-<summary>cepstrum</summary>
+**cepstrum:**
 inspection of motors and gearboxes, speaker detection
 </details><br>
 
