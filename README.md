@@ -28,7 +28,7 @@ Normal text
 **FAQ**<sub><sup>(click to unroll)</sup></sub>
 
 
-### FAQ
+### FAQ  <sub><sup>(click to unroll)</sup></sub>
 <details>
 <summary>no signals are shown when music/youtube/etc.. is played</summary>
 linux does not route the speaker-output back to programs.<br>
