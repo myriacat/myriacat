@@ -34,9 +34,7 @@ blabla test<br>
 </details>
 
 <details>
-<summary>
-  <h1>FAQ</h1>
-  (click to expand)</summary><br>
+<summary><h1>FAQ</h1>(click to expand)</summary><br>
 blabla test<br>
 </details>
 
