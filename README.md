@@ -10,11 +10,9 @@
 
 
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="../main/block_diagram.png" width="240" />
+  <img src="../main/mini_screen.png" width="240" /> 
 </p>
-
 
 
 ### Download
