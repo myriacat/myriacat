@@ -51,8 +51,11 @@ real time monitoring, lossy compression quality analysis.
 
 <details>
 <summary>linear view</summary>
-scientific data visualization of analog signals, seismic, biofeedback research, bat detector
-ELF, VLF ,Schumann resonances, alpha navigation, time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ), naval/marine/submarine communications, aviation beacons, lightinings, whistlers, sferics
+scientific data visualization of analog signals, seismic logging, biofeedback research,<br>  
+ELF, VLF ,Schumann resonances, lightinings, whistlers, sferics,<br>
+time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ),<br>
+naval/marine/submarine communications, aviation beacons, alpha navigation,<br>
+bat detector
 </details>
 
 <details>
@@ -70,6 +73,8 @@ logging and averaging of data up to one year.
 inspection of motors and gearboxes, speaker detection
 </details><br>
 
+
+So this is normal text ^and this is tiny text^.
 
 
 ### License
