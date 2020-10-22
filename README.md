@@ -1,6 +1,6 @@
 ![myriacat](../main/myriacat.gif)
 
-## *myriacat* - real time spectrum analyzer for Linux
+## ***myriacat*** - real time spectrum analyzer for Linux
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
 - linear mode with sideband demodulator for signal hunting
@@ -11,57 +11,11 @@
 <img src="../main/block_diagram.png" width="480" />
 
 
-### Usage
+<b>usage</b><br>
 download the latest portable version of [myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz) here, 
 open zip folder and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br>
 minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
-
-
-<details>
-<h3><summary>stuff</summary><br></h3>
-
-this is just blabla<br>
-</details>
-
-
-
-
-
-<h3><details>
-<summary>stuff</summary><br></h3>
-
-this is just blabla<br>
-</details>
-
-
-
-
-
-
-
-
-
-<h3><details>
-<summary>stuff</summary><br>
-
-this is just blabla<br>
-</details>
-</h3>
-
-
-
-
-<h3><details><summary>stuff with <em>mark</em> <strong>down</strong></summary></h3><br>
-
-this is just blabla
-</details>
-
-
-
-
-
-
 
 
 <details>
@@ -105,8 +59,8 @@ inspection of motors and gearboxes, speaker detection<br>
 </details><br>
 
 
-<b>License</b>
+<b>License</b><br>
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
 
-<b>feed the cat</b>
+<b>feed the cat</b><br>
 Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
