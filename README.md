@@ -31,15 +31,45 @@ those are the supported hardware rates. to use other samplerates, use a software
 </details>
 
 <details>
-<summary>`playback of a 192kHz audiofile is cutoff at 24kHz`</summary>
+<summary>playback of a 192kHz audiofile is cutoff at 24kHz</summary>
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
 to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).
 </details>
 
 <details>
-<summary>minimum requirements - "no usable device found" </summary>
+<summary>minimum requirements - "no usable device found"</summary>
 minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br>
 </details><br>
+
+
+### applications:
+
+<details>
+<summary>logarithmic audio view</summary>
+real time monitoring, lossy compression quality analysis.
+</details>
+
+<details>
+<summary>linear view</summary>
+scientific data visualization of analog signals, seismic, biofeedback research, bat detector
+ELF, VLF ,Schumann resonances, alpha navigation, time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ), naval/marine/submarine communications, aviation beacons, lightinings, whistlers, sferics
+</details>
+
+<details>
+<summary>upper sideband demodulator</summary>
+select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz
+</details>
+
+<details>
+<summary>spectrogram</summary>
+logging and averaging of data up to one year.
+</details>
+
+<details>
+<summary>cepstrum</summary>
+inspection of motors and gearboxes, speaker detection
+</details><br>
+
 
 
 ### License
