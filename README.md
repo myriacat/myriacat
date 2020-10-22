@@ -19,10 +19,8 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
 
-<h2>`<details><summary>stuff with <em>mark</em> <strong>down</strong></summary><p><br>
-<em>formatted</em> <strong>heading</strong> with <a href="link">a</a></p></details></h2>
-<p>{{stamdard 3-backtick code block omitted from here due to escaping issues}}<br>
-Collapsible until here.</p>
+<h3><details><summary>stuff with <em>mark</em> <strong>down</strong></summary><p><br></h3>
+this is just blabla</details>
 
 
 
