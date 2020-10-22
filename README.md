@@ -10,7 +10,7 @@
 
 
 <p float="left">
-  <img src="../main/block_diagram.png" width="240" />
+  <img src="../main/block_diagram.png" width="480" />
   <img src="../main/mini_screen.png" width="240" /> 
 </p>
 
