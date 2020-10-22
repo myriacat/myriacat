@@ -22,6 +22,11 @@ on exit, the file `myriaconf.txt` with editable input devices is created.<br><br
 Normal text
 <sub><sup>Small text</sup></sub>
 
+<big><big>tutorial</big>tutorial</big>tutorial<small>tutorial<small>tutorial</small></small>
+
+
+**FAQ**<sub><sup>(click to unroll)</sup></sub>
+
 
 ### FAQ
 <details>
