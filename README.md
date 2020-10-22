@@ -30,11 +30,11 @@ easiest way with pulseaudio is to install "pavucontrol" and set "monitor of buil
 those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).
 </details>
 
-<details>
+`<details>
 <summary>playback of a 192kHz audiofile is cutoff at 24kHz</summary>
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
 to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).
-</details>
+</details>`
 
 <details>
 <summary>minimum requirements - "no usable device found" </summary>
