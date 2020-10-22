@@ -45,8 +45,7 @@ those are the supported hardware rates. to use other samplerates, use a software
 192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
 to monitor recorded samples, the alsa config of linux needs to be modifed, as its usually capped at 48ksps (24khz).<br>
 
-</details><br>
-
+</details>
 
 ### applications:
 <details>
@@ -70,11 +69,7 @@ logging and averaging of data up to one year.
 
 **cepstrum:**<br>
 inspection of motors and gearboxes, speaker detection
-</details><br>
-
-
-
-
+</details>
 
 
 ### License
