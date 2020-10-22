@@ -51,8 +51,7 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br>
 ### applications:
 
 <details>
-<summary>applications:</summary>
-<details>
+<summary>(click to unroll)</summary>
   
 **logarithmic audio view:**
 real time monitoring, lossy compression quality analysis.
