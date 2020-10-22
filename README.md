@@ -36,7 +36,7 @@ to monitor recorded samples, the alsa config of linux needs to be modifed, as it
 
 
 <details>
-<summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
+<summary><b>applications:</b> <sub><i>click to expand</i></sub></summary><br>
 
 **logarithmic audio view:**<br>
 real time monitoring, lossy compression quality analysis.<br>
