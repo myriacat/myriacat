@@ -40,7 +40,8 @@ to monitor recorded samples, the alsa config of linux needs to be modified, as i
 <summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **logarithmic audio view:**<br>
-real time monitoring, lossy compression quality analysis<br>
+real time audio monitoring, lossy compression quality analysis<br>
+room accoustic measurements, instrument testing<br>
 
 - **linear view:**<br>
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>
