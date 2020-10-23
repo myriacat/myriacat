@@ -92,19 +92,3 @@ Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
 
 
 
-
-
-<p><b>license</b><br>
-See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
-
-
-<b>feed the cat</b><br>
-Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
-</p>
-<p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
-</p>
-
-
-
-
