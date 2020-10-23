@@ -93,14 +93,14 @@ Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
 
 
 
-|<b>license</b><br>
+|<b>license</b>|<img align="right" width="256" src="../main/logo_with_sign.png">|
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
 
 
 <b>feed the cat</b><br>
 Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
 
-|<img align="right" width="256" src="../main/logo_with_sign.png">|
+
 
 
 
