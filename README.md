@@ -76,7 +76,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - powerspectrum resolution up to 1 millihertz
 - demodulator bandwith from sub 1Hz to full bandwith
 - windowsize from 256*160 pixels to 4K fullscreen
-- waterfall logging of up to a year with scroll time predictor
+- waterfall logging of up to a year with scroll time display
 - ruler to mark and measure data & harmonic series markers
 </details><br>
 
