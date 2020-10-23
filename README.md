@@ -65,9 +65,7 @@ mono compatibility of the stereo signal<br>
 
 **cepstrum:**<br>
 inspection of motors and gearboxes, speaker detection<br>
-</details><br>
-
-
+</details>
 
 
 <details>
