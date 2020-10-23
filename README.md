@@ -71,7 +71,7 @@ inspection of motors and gearboxes, speaker detection<br>
 
 
 <details>
-<summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
+<summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br><p>
 
 -FFT size from 1024 to 262144 samples
 -samplerate from 275sps to 192kHz, 24bit 
@@ -80,7 +80,7 @@ inspection of motors and gearboxes, speaker detection<br>
 -windowsize from 256*160 pixels to 4K fullscreen
 -waterfall logging of up to a year with scroll time predictor
 -ruler to mark and measure data & harmonic series markers
-<br><br>
+</p><br><br>
 </details>
 
 
