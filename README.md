@@ -80,7 +80,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - ruler to mark and measure data & harmonic series markers
 </details><br>
 
-<img align="right" width="256" src="../main/logo_with_sign.png">
+<img align="right" width="128" src="../main/logo_with_sign.png">
 
 <b>license</b><br>
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
