@@ -22,7 +22,7 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
-- **no signals are shown when music/youtube/etc.. is played:**
+- **no signals are shown when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
 you need a virtual adapter, a software or a hardware loopback (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
@@ -69,7 +69,7 @@ inspection of motors and gearboxes, speaker detection<br>
 
 
 <details>
-<summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
+<summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
 
 - FFT size from 1024 to 262144 samples
 - samplerate from 275sps to 192kHz, 24bit 
