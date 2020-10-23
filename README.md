@@ -80,11 +80,11 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - ruler to mark and measure data & harmonic series markers
 </details><br>
 
-<img align="right" width="128" src="../main/logo_with_sign.png">
 
 <b>license</b><br>
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
 
+<img align="right" width="128" src="../main/logo_with_sign.png">
 
 <b>feed the cat</b><br>
 Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
