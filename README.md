@@ -93,7 +93,7 @@ Litecoin LTC: `LaCh6jieaHP14D2VD36voiq4urkzaHZjGr`<br>
 
 
 
-|<b>license</b>|<img align="right" width="256" src="../main/logo_with_sign.png">|
+|<b>license</b>|![myriacat](../main/logo_with_sign.png)|
 See the [LICENSE](../main/LICENSE.txt) file for details.<br><br>
 
 
