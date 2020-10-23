@@ -84,7 +84,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 
 
 <b>license</b>
-<img align="right" width="128" src="../main/logo_with_sign.png">
+<img align="right" width="128" src="../main/logo_with_sign.png"><br>
 See the [LICENSE](../main/LICENSE.txt) file for details<br><br>
 
 <b>feed the cat</b><br>
