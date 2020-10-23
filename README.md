@@ -37,7 +37,7 @@ to monitor recorded samples, the alsa config of linux needs to be modified, as i
 
 
 <details>
-<summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
+<summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **logarithmic audio view:**<br>
 real time monitoring, lossy compression quality analysis<br>
@@ -48,22 +48,22 @@ ELF, VLF, Schumann resonances, lightnings, whistlers, spherics, bat detector<br>
 time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ),<br>
 naval/marine/submarine communications, aviation beacons, alpha navigation<br>
 
-**upper sideband demodulator:**<br>
-> select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
+- **upper sideband demodulator:**<br>
+select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
 
-**spectrogram:**<br>
-> logging and averaging of data up to one year<br>
+- **spectrogram:**<br>
+logging and averaging of data up to one year<br>
 
-**oscilloscope**<br>
+- **oscilloscope**<br>
 signal integrity and continuity, clipping and distortions<br>
 
-**vectorscope**<br>
+- **vectorscope**<br>
 polar view of stereo image width and position<br>
 
-**phase correlation meter**<br>
+- **phase correlation meter**<br>
 mono compatibility of the stereo signal<br>
 
-**cepstrum:**<br>
+- **cepstrum:**<br>
 inspection of motors and gearboxes, speaker detection<br>
 </details>
 
