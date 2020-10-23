@@ -20,7 +20,7 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 
 <details>
-<summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
+<summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **no signals are shown when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
@@ -69,7 +69,7 @@ inspection of motors and gearboxes, speaker detection<br>
 
 
 <details>
-<summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
+<summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - FFT size from 1024 to 262144 samples
 - samplerate from 275sps to 192kHz, 24bit 
