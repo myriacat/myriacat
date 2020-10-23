@@ -6,7 +6,7 @@
 - linear mode with sideband demodulator for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
 - fast power spectrum with smooth waterfall up to **4K fullscreen!**
-- multithreaded in-house DSP kernel<br><br>
+- multithreaded in-house DSP kernel, no external libraries<br><br>
 
 <img src="../main/block_diagram.png" width="560" />
 
