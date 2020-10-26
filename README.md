@@ -60,9 +60,10 @@ room accoustic measurements, instrument testing<br>
 
 - **linear view:**<br>
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>
-ELF, VLF, Schumann resonances, lightnings, whistlers, spherics, bat detector<br>
-time signals, ripple control, DCF77, mains and trainpower, smartmeter, Grimeton Radio (SAQ),<br>
-naval/marine/submarine communications, aviation beacons, alpha navigation<br>
+ELF, VLF, Schumann resonances, lightnings, whistlers, spherics, bat detector,<br>
+Ham radio, panadapter, Grimeton Radio (SAQ), alpha navigation,<br>
+time signals, ripple control, DCF77, mains and trainpower, smartmeter,<br>
+naval/marine/submarine communications, aviation beacons<br>
 
 - **upper sideband demodulator:**<br>
 select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
