@@ -1,4 +1,4 @@
-![myriacat](../main/myriacat.gif)
+![myriacat](../main/resources/myriacat.gif)
 
 ## ***myriacat*** - real time spectrum analyzer for Linux
 - intuitive, dynamic user interface
@@ -9,7 +9,7 @@
 - multithreaded in-house DSP kernel, no external libraries
 - pure C, no external libraries, lightweight & portable<br><br>
 
-<img src="../main/block_diagram.png" width="560" />
+<img src="../main/resources/block_diagram.png" width="560" />
 
 
 download **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)**, 
@@ -40,7 +40,7 @@ do this on your own risk! - audio hardware is usually only designed for 20Hz - 2
 `nano /etc/pulse/daemon.conf` remove the ";" in front of "; default-sample-rate = 192000"<br>
 `pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
 `cat /proc/asound/card0/pcm0p/sub0/hw_params` again. it will show "rate 192000" now<br><br>
-download software generated **[96kHz_sine.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
+download software generated **[96kHz_sine.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
 play it with any good audio player (vlc, xplayer, ..), and <br><br>
 set myriacat to normal linear mode (music button is off), and<br>
 change sps to 192kHz, channel to L+R, and realtime.<br>
@@ -102,7 +102,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 
 <b>license</b><br>
 See the [LICENSE](../main/LICENSE.txt) file for details
-<img align="right" width="128" src="../main/logo_with_sign.png">
+<img align="right" width="128" src="../main/resources/logo_with_sign.png">
 <br>
 
 <b>feed the cat</b><br>
