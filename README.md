@@ -88,7 +88,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 <summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
 
 - FFT size from 1024 to 262144 samples
-- samplerate from 275sps to 192kHz, 24bit 
+- samplerate from 275sps to 192kSps, 24bit 
 - powerspectrum resolution up to 1 millihertz
 - demodulator bandwith from sub 1Hz to full bandwith
 - windowsize from 256*160 pixels to 4K fullscreen
