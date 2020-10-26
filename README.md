@@ -1,5 +1,7 @@
 ![myriacat](../main/resources/myriacat.gif)
 
+<img align="right" width="100" src="../main/resources/pocket.png">
+
 ## ***myriacat*** - real time spectrum analyzer for Linux
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
@@ -8,20 +10,6 @@
 - fast power spectrum with smooth waterfall up to **4K fullscreen!**
 - multithreaded in-house DSP kernel, no external libraries
 - pure C, no external libraries, lightweight & portable<br><br>
-
-
-<p float="left">
-  <img src="../main/resources/4K.png" width="100" />
-  <img src="../main/resources/96kHz_test.png" width="100" /> 
-  <img src="../main/resources/pocket.png" width="100" />
-</p>
-<br><br>
-
-
-dark                       |  test
-:-------------------------:|:-------------------------:
-![](../main/resources/2K.png)  |  ![](../main/resources/96kHz_test.png)
-
 
 
 <img src="../main/resources/block_diagram.png" width="560" />
