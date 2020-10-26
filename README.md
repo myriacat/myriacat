@@ -11,6 +11,8 @@
 
 <img src="../main/block_diagram.png" width="560" />
 
+<a href="96kHz_sine.wav" download="../main/96kHz_sine.wav">Download file</a>
+
 
 download **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)**, 
 unzip and type `./myriacat` to run.<br>
