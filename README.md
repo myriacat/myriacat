@@ -30,8 +30,29 @@ easiest way with pulseaudio is to install "pavucontrol" and set "monitor of buil
 those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
 
 - **playback of a 192kHz audiofile is cutoff at 24kHz**<br>
-192ksps (96kHz signal) input will be shown if a suitable HW device is selected.<br>
-to monitor recorded samples, the alsa config of linux needs to be modified, as its usually capped at 48ksps (24khz).<br><br>
+some distributions are capped at 22kHz audio.<br>
+for audiophiles, specific HiFi/HiEnd tests or interest those settings can be changed.<br>
+it is not advised to use this configuration permanently.<br>
+
+this is for Mint/Ubuntu with Pulseaudio. other distros might work different.<br>
+do this on your own risk! - audio hardware is usually only designed for 20Hz - 20kHz.<br>
+
+`cat /proc/asound/card0/pcm0p/sub0/hw_params` usually shows "rate 44100".<br>
+`nano /etc/pulse/daemon.conf` remove the ";" in front of "; default-sample-rate = 192000"<br>
+`pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
+`cat /proc/asound/card0/pcm0p/sub0/hw_params` again. it will show "rate 192000" now.<br>
+
+download software generated **[myriacat](../main/96kHz_sine.wav)** (192kSps, 0 - 96kHz, 16bit, low volume)<br>
+play it with any good audio player. (vlc, xplayer, ..)<br>
+
+set myriacat to normal linear mode (music button is off)<br>
+change sps to 192kHz, channel to L+R, and realtime<br>
+best viewed with inital window-size (1024 pixel) and 2*zoom factor (2048 FFT size)<br>
+
+its generally not usefull to use this settings.<br>
+myricat talks directly to the low level alsa hardware interface and can use<br>
+192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br>
+<br>
 </details>
 
 
