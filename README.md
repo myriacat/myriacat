@@ -11,16 +11,6 @@
 
 <img src="../main/block_diagram.png" width="560" />
 
-<a href="96kHz_sine.wav" download="../main/96kHz_sine.wav">Download file</a>
-
-[wave](../main/96kHz_sine.wav)
-
-
-<a id="raw-url" href="https://raw.githubusercontent.com/myriacat/myriacat/main/96kHz_sine.wav">Download FILE</a>
-
-[wave1](https://raw.githubusercontent.com/myriacat/myriacat/main/96kHz_sine.wav)
-
-
 
 download **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)**, 
 unzip and type `./myriacat` to run.<br>
@@ -50,7 +40,7 @@ do this on your own risk! - audio hardware is usually only designed for 20Hz - 2
 `nano /etc/pulse/daemon.conf` remove the ";" in front of "; default-sample-rate = 192000"<br>
 `pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
 `cat /proc/asound/card0/pcm0p/sub0/hw_params` again. it will show "rate 192000" now<br><br>
-download software generated **[96kHz_sine.wav](../main/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
+download software generated **[96kHz_sin.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
 play it with any good audio player (vlc, xplayer, ..), and <br><br>
 set myriacat to normal linear mode (music button is off), and<br>
 change sps to 192kHz, channel to L+R, and realtime.<br>
