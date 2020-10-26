@@ -13,6 +13,11 @@
 
 <a href="96kHz_sine.wav" download="../main/96kHz_sine.wav">Download file</a>
 
+[wave](../main/96kHz_sine.wav)
+
+
+<a id="raw-url" href="https://raw.githubusercontent.com/myriacat/myriacat/main/96kHz_sine.wav">Download FILE</a>
+
 
 download **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)**, 
 unzip and type `./myriacat` to run.<br>
