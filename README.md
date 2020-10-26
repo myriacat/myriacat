@@ -27,7 +27,8 @@ you need a virtual adapter, a software or a hardware loopback. (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
 
 - **only 44k1 and 48k sps are selectable**<br>
-those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
+those are the supported rates of your Hardware.<br>
+to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
 
 - **playback of a 192kHz audiofile is cutoff at 22kHz**<br>
 some distributions are capped at 22kHz audio.<br>
