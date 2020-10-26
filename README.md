@@ -1,8 +1,10 @@
 ![myriacat](../main/resources/myriacat.gif)
 
-<img align="right" width="100" src="../main/resources/pocket.png">
 
 ## ***myriacat*** - real time spectrum analyzer for Linux
+
+<img align="right" width="200" src="../main/resources/pocket.png">
+
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
 - linear mode with sideband demodulator for signal hunting
