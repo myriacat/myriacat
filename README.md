@@ -29,9 +29,9 @@ easiest way with pulseaudio is to install "pavucontrol" and set "monitor of buil
 - **only 44k1 and 48k sps are selectable**<br>
 those are the supported hardware rates. to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
 
-- **playback of a 192kHz audiofile is cutoff at 24kHz**<br>
+- **playback of a 192kHz audiofile is cutoff at 22kHz**<br>
 some distributions are capped at 22kHz audio.<br>
-for audiophiles, specific HiFi/ HiEnd tests or interest those settings can be changed.<br>
+for audiophiles, specific HiFi/ HiEnd tests or other interests, those settings can be changed.<br>
 it is not advised to use this configuration permanently.<br><br>
 this is for Mint/Ubuntu with Pulseaudio. other distros might work different.<br>
 do this on your own risk! - audio hardware is usually only designed for 20Hz - 20kHz.<br><br>
