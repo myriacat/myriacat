@@ -23,7 +23,7 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 - **no signals are shown when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
-you need a virtual adapter, a software or a hardware loopback (cable)<br>
+you need a virtual adapter, a software or a hardware loopback. (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
 
 - **only 44k1 and 48k sps are selectable**<br>
@@ -31,19 +31,19 @@ those are the supported hardware rates. to use other samplerates, use a software
 
 - **playback of a 192kHz audiofile is cutoff at 24kHz**<br>
 some distributions are capped at 22kHz audio.<br>
-for audiophiles, specific HiFi/HiEnd tests or interest those settings can be changed.<br>
+for audiophiles, specific HiFi/ HiEnd tests or interest those settings can be changed.<br>
 it is not advised to use this configuration permanently.<br><br>
 this is for Mint/Ubuntu with Pulseaudio. other distros might work different.<br>
 do this on your own risk! - audio hardware is usually only designed for 20Hz - 20kHz.<br><br>
-`cat /proc/asound/card0/pcm0p/sub0/hw_params` usually shows "rate 44100".<br>
+`cat /proc/asound/card0/pcm0p/sub0/hw_params` usually shows "rate 44100"<br>
 `nano /etc/pulse/daemon.conf` remove the ";" in front of "; default-sample-rate = 192000"<br>
 `pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
-`cat /proc/asound/card0/pcm0p/sub0/hw_params` again. it will show "rate 192000" now.<br><br>
-download software generated **[myriacat](../main/96kHz_sine.wav)** (192kSps, 0 - 96kHz, 16bit, low volume)<br>
-play it with any good audio player. (vlc, xplayer, ..)<br><br>
-set myriacat to normal linear mode (music button is off)<br>
-change sps to 192kHz, channel to L+R, and realtime<br>
-best viewed with inital window-size (1024 pixel) and 2*zoom factor (2048 FFT size)<br><br>
+`cat /proc/asound/card0/pcm0p/sub0/hw_params` again. it will show "rate 192000" now<br><br>
+download software generated **[96kHz_sine.wav](../main/96kHz_sine.wav)** (192kSps, 0 - 96kHz, 16bit, low volume)<br>
+play it with any good audio player (vlc, xplayer, ..), and <br><br>
+set myriacat to normal linear mode (music button is off), and<br>
+change sps to 192kHz, channel to L+R, and realtime.<br>
+best viewed with inital window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
 its generally not usefull to use this settings.<br>
 myricat talks directly to the low level alsa hardware interface and can use<br>
 192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br><br>
