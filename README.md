@@ -23,11 +23,11 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
-- **the program closes after a few seconds**<br>
+- **black screen, no signals are shown**<br>
 start `./myriacat` from the shell to see the reason.<br>
-most probably you use a 16bit mono-input soundcard, which is not supported yet.<br>
+most probably you use a 8bit mono-input soundcard, which is not supported yet.<br>
 
-- **no signals are shown when music/youtube/etc.. is played:**<br>
+- **line in and microphone works, but no display when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
 you need a virtual adapter, a software or a hardware loopback. (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
