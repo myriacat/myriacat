@@ -13,6 +13,8 @@
 
 <img src="../main/resources/block_diagram.png" width="560" />
 
+<kbd>1</kbd><kbd>2</kbd><kbd>3</kbd> and <kbd>q</kbd><kbd>w</kbd><kbd>e</kbd>
+
 
 download **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)**, 
 unzip and type `./myriacat` to run.<br>
@@ -22,11 +24,6 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
-
-<details>
-<summary><b>test:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
-123, 456, 789
-</details>
 
 - **no signals are shown when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
