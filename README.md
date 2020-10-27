@@ -55,7 +55,7 @@ set myriacat to normal linear mode (music button off), and<br>
 change sps to 192kHz, channel to L+R, and realtime.<br>
 best viewed with inital window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
 its generally not usefull to use this settings.<br>
-myricat talks directly to the low level alsa hardware interface and can use<br>
+myriacat talks directly to the low level alsa hardware interface and can use<br>
 192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br><br>
 </details>
 
