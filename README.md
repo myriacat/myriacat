@@ -69,7 +69,7 @@ acoustic measurements, vocals aid, harmoics and repsonse tests, instrument tunin
 
 - **linear view:**<br>
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>
-ELF, VLF, Schumann resonances, lightnings, whistlers, spherics, bat detector,<br>
+ELF/ VLF receiver, Schumann resonances, lightnings, whistlers, spherics, bat detector,<br>
 Ham radio, panadapter, Grimeton Radio (SAQ), alpha navigation,<br>
 time signals, ripple control, DCF77, mains and trainpower, smartmeter,<br>
 naval/marine/submarine communications, aviation beacons<br>
