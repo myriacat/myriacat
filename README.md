@@ -50,8 +50,8 @@ do this on your own risk! - audio hardware is usually only designed for 20Hz - 2
 `pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
 `cat /proc/asound/card0/pcm0p/sub0/hw_params` again. it will show "rate 192000" now<br><br>
 download software generated **[96kHz_sine.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
-play it with any good audio player (vlc, xplayer, ..), and <br><br>
-set myriacat to normal linear mode (music button is off), and<br>
+play it with any good audio player (vlc, xplayer, ..)<br>
+set myriacat to normal linear mode (music button off), and<br>
 change sps to 192kHz, channel to L+R, and realtime.<br>
 best viewed with inital window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
 its generally not usefull to use this settings.<br>
