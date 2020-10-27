@@ -107,7 +107,11 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - ruler to mark and measure data & harmonic series markers
 - overlap-add FFT convolution filter for sideband demodulator
 - vertical flank steepness (brickwall) filter without phaseshift or ringing
-- A-weigting filter according to internation standard IEC 61672:2003
+- A-weighting filter according to internation standard IEC 61672:2003
+- processing of "hidden bins" in logview, no missing data
+- smart buttons replace options and setting-screens, no invalid parameters possible
+- single volume control for the whole signaltrain
+- every setting is seamless changed on-the-fly
 </details><br>
 
 
