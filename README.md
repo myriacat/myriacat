@@ -64,8 +64,8 @@ myricat talks directly to the low level alsa hardware interface and can use<br>
 <summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **logarithmic audio view:**<br>
-real time audio monitoring, lossy compression quality analysis<br>
-room accoustic measurements, instrument testing<br>
+real time audio monitoring of frequency characteristics, lossy compression quality analysis<br>
+acoustic measurements, vocals aid, harmoics and repsonse tests, instrument tuning<br>
 
 - **linear view:**<br>
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>
