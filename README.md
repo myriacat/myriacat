@@ -13,8 +13,6 @@
 
 <img src="../main/resources/block_diagram.png" width="560" />
 
-<kbd>1</kbd><kbd>2</kbd><kbd>3</kbd> and <kbd>q</kbd><kbd>w</kbd><kbd>e</kbd>
-
 
 download **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)**, 
 unzip and type `./myriacat` to run.<br>
@@ -33,6 +31,9 @@ easiest way with pulseaudio is to install "pavucontrol" and set "monitor of buil
 - **only 44k1 and 48k sps are selectable**<br>
 those are the supported rates of your Hardware.<br>
 to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
+
+- **change color of the spectrum**<br>
+via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
 
 - **playback of a 192kHz audiofile is cutoff at 22kHz**<br>
 some distributions are capped at 22kHz audio.<br>
