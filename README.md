@@ -111,7 +111,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - processing of "hidden bins" in logview, no missing data
 - smart buttons replace options and setting-screens, no invalid parameters possible
 - single volume control for the whole signaltrain
-- every setting is seamless changed on-the-fly
+- every setting is seamlessly changed on-the-fly
 </details><br>
 
 
