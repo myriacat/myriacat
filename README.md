@@ -23,6 +23,11 @@ minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
+<details>
+<summary><b>test:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
+123, 456, 789
+</details>
+
 - **no signals are shown when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
 you need a virtual adapter, a software or a hardware loopback. (cable)<br>
