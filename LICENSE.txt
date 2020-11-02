@@ -1,5 +1,5 @@
 
-myriacat software License - Verison 1.0 - October 17th, 2020
+myriacat software License - Verison 1.1 - Novemeber 3th, 2020
 
 
 Permission is hereby granted, free of charge, to use the Software in any environment,
@@ -7,7 +7,7 @@ including but not necessarily limited to: personal, academic, commercial, govern
 business, non-profit, and for-profit.
 
 You may not modify, reverse engineer, decompile, disassemble, adapt, rent, lease,
-loan, sell, or create derivative works based upon the Software or any part thereof.
+loan, sell, copy or distribute, the Software or any part thereof.
 
 Before Operating the Software, check your local Laws regarding receiving Radiowaves.
 It is your responsibility to comply with your local law. The myriacat creator cannot
