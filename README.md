@@ -31,7 +31,7 @@ easiest way with pulseaudio is to install "pavucontrol" and set "monitor of buil
 - **change color of the spectrum**<br>
 via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
 
-- **playback of a 192kHz audiofile is cutoff at 22kHz**<br>
+- **playback of a 192ksps audiofile is cutoff at 22kHz**<br>
 some distributions are capped at 22kHz audio.<br>
 for audiophiles, specific HiFi/ HiEnd tests or other interests, those settings can be changed.<br>
 it is not advised to use this configuration permanently.<br><br>
