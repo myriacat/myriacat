@@ -17,24 +17,16 @@
 download **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.0_beta.tar.gz)**, 
 unzip and type `./myriacat` to run.<br>
 on exit, the file `myriaconf.txt` with editable input devices is created.<br>
-minimum requirements: Linux 64bit, X11, OpenGL, 24 bit stereo soundcard<br><br>
+minimum requirements: Linux 64bit, X11, OpenGL<br><br>
 
 
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
-- **black screen, no signals are shown**<br>
-start `./myriacat` from the shell to see the reason.<br>
-most probably you use a 8bit mono-input soundcard, which is not supported yet.<br>
-
 - **line in and microphone works, but no display when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
 you need a virtual adapter, a software or a hardware loopback. (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
-
-- **only 44k1 and 48k sps are selectable**<br>
-those are the supported rates of your Hardware.<br>
-to use other samplerates, use a softwaredevice like "default" (OS does resampling).<br>
 
 - **change color of the spectrum**<br>
 via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
