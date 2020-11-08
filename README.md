@@ -1,7 +1,7 @@
 ![myriacat](../main/resources/myriacat.gif)
 
 
-## ***myriacat*** - real time spectrum analyzer for Linux
+## ***myriacat*** - audio spectrum analyzer & SDR for Linux
 - intuitive, dynamic user interface
 - logarithmic view with A-weighting for audio engineering
 - linear mode with sideband demodulator for signal hunting
