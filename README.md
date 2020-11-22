@@ -6,9 +6,7 @@
 - logarithmic view with A-weighting for audio engineering
 - linear mode with sideband demodulator for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
-- fast power spectrum with smooth waterfall up to **4K fullscreen!**
-- multithreaded in-house DSP kernel, no external libraries
-- pure C, no external libraries, lightweight & portable<br><br>
+- portable, lightweight, 4K fullscreen graphics<br><br>
 
 
 <img src="../main/resources/block_diagram.png" width="560" />
@@ -89,6 +87,8 @@ inspection of motors and gearboxes, speaker detection<br><br>
 <details>
 <summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
 
+- designed and written in C, with low level ALSA and OpenGL acces
+- multithreaded in-house DSP kernel, no external libraries
 - FFT complex transform, DIT, inplace, radix2, based on Cooley Tukey
 - window size from 1024 to 262144 samples
 - samplerate from 275sps to 192kSps, 24bit 
