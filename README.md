@@ -2,11 +2,10 @@
 
 
 ## ***myriacat*** - audio spectrum analyzer & SDR for Linux
-- intuitive, dynamic user interface
-- logarithmic view with A-weighting for audio engineering
-- linear mode with sideband demodulator for signal hunting
+- logarithmic view for audio analysis
+- linear mode with demodulator for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
-- portable, lightweight, fluid 4K fullscreen graphics<br><br>
+- portable, lightweight, **fluid 4K fullscreen** graphics<br><br>
 
 
 <img src="../main/resources/block_diagram.png" width="560" />
