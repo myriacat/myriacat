@@ -54,9 +54,9 @@ myriacat talks directly to the low level alsa hardware interface and can use<br>
 <summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **logarithmic audio view:**<br>
-essential precision tool for audio engineering and recording studios<br>
-real time monitoring for video streaming and live events<br>
-audio FX visualizer for DJ's and Professional Audio Staff<br>
+essential precision tool for recording, mixing and mastering<br>
+real time monitoring for video streaming, live events and recording Studios<br>
+audio FX visualizer for DJ's and Professional Audio Engineering<br>
 visual feedback for vocalists and content creators<br>
 evaluate harmonics, frequency response curves, acoustic characteristics measurements<br>
 instrument tuning, note training, vocal aid<br>
