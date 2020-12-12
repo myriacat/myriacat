@@ -1,11 +1,12 @@
 ![myriacat](../main/resources/myriacat.gif)
 
 
-## ***myriacat*** - audio spectrum analyzer & SDR for Linux
-- fast and high resolution audio analysis
-- linear mode with demodulator for signal hunting
+# *myriacat*
+- realtime precision audio spectrum analyzer for **Linux**
+- linear mode with SDR capabilities for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
-- portable, lightweight, **fluid 4K fullscreen** graphics<br><br>
+- 4K fullscreen, fluid and pixelexact graphics
+- intuitive, portable, lightweight<br><br>
 
 
 <img src="../main/resources/block_diagram.png" width="560" />
@@ -53,8 +54,11 @@ myriacat talks directly to the low level alsa hardware interface and can use<br>
 <summary><b>applications:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **logarithmic audio view:**<br>
-real time audio monitoring of frequency characteristics, lossy compression quality analysis<br>
-acoustic measurements, vocals aid, harmoics and repsonse tests, instrument tuning<br>
+essential precision tool for audio engineering<br>
+real time monitoring for content creator, live events and recording studios<br>
+frequency response curves, acoustic characteristics measurements<br>
+vocals aid, harmonics and repsonse tests, instrument tuning<br>
+lossy compression quality analysis<br>
 
 - **linear view:**<br>
 scientific data visualization of analog signals, seismic logging, biofeedback research,<br>
