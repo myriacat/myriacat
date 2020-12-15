@@ -2,8 +2,8 @@
 
 
 # *myriacat*
-- Linux spectrum analyzer
-- high precision linear mode with SDR for signal hunting
+- Linux audio spectrum analyzer with VLF SDR capabilities
+- high precision linear mode with SSB receiver for signal hunting
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
 - 4K fullscreen, fluid and pixelexact realtime Display
 - intuitive, portable, lightweight<br><br>
