@@ -1,10 +1,9 @@
 ![myriacat](../main/resources/myriacat.gif)
 
 
-# _myriacat_
+## *myriacat*
 - Linux audio spectrum analyzer with SDR
-- phase correlation meter, vectorscope, oscilloscope & cepstrum
-- 4K fullscreen, fluid and pixelexact realtime Display
+- 4K fullscreen, fluid realtime Display
 - fast, intuitive, portable, lightweight<br><br>
 
 
@@ -62,11 +61,10 @@ instrument tuning, note training, vocal aid<br>
 lossy compression quality analysis<br>
 
 - **linear view:**<br>
-high precision linear visualization of analog signals for Scientific Research<br>
+pixelexact linear visualization of analog signals for scientific research<br>
 Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
-Ham radio, panadapter, alpha navigation,<br>
-time signals, ripple control, DCF77, mains and trainpower, smartmeter,<br>
-naval/marine/submarine communications, aviation beacons<br>
+Ham radio, panadapter, ripple control, DCF77, smartmeter,<br>
+naval/marine/submarine communications, alpha navigation, aviation beacons<br>
 signals hunting, pattern detection and bioresonance feedback<br>
 
 - **upper sideband demodulator:**<br>
