@@ -74,7 +74,8 @@ ultrasonic, infrasound, sonar and sonography converter<br>
 bat detector<br>
 
 - **oscilloscope**<br>
-signal integrity and continuity, clipping and distortions<br>
+check for signal integrity and continuity<br>
+catch clipping, offset and distortions<br>
 
 - **vectorscope**<br>
 polar view of stereo image width and position<br>
