@@ -4,7 +4,7 @@
 ## *myriacat*
 - Linux audio spectrum analyzer with SDR
 - 4K fullscreen, fluid realtime Display
-- fast, intuitive, portable, lightweight<br><br>
+- fast, intuitive, portable & lightweight<br><br>
 
 
 <img src="../main/resources/block_diagram.png" width="560" />
