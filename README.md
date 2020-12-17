@@ -1,12 +1,11 @@
 ![myriacat](../main/resources/myriacat.gif)
 
 
-# *myriacat*
-- Linux audio spectrum analyzer with VLF SDR capabilities
-- high precision linear mode with SSB receiver for signal hunting
+# _myriacat_
+- Linux audio spectrum analyzer with SDR
 - phase correlation meter, vectorscope, oscilloscope & cepstrum
 - 4K fullscreen, fluid and pixelexact realtime Display
-- intuitive, portable, lightweight<br><br>
+- fast, intuitive, portable, lightweight<br><br>
 
 
 <img src="../main/resources/block_diagram.png" width="560" />
@@ -61,20 +60,20 @@ visual feedback for vocalists and content creators<br>
 evaluate harmonics, frequency response curves, acoustic characteristics measurements<br>
 instrument tuning, note training, vocal aid<br>
 lossy compression quality analysis<br>
-enjoy visual representation of fine Music<br>
 
 - **linear view:**<br>
-scientific data visualization of analog signals, seismic logging, biofeedback research,<br>
-ELF/ VLF receiver, Schumann resonances, lightnings, whistlers, spherics, bat detector & converter<br>
-Ham radio, panadapter, Grimeton Radio (SAQ), alpha navigation,<br>
+high precision linear visualization of analog signals for Scientific Research<br>
+Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
+Ham radio, panadapter, alpha navigation,<br>
 time signals, ripple control, DCF77, mains and trainpower, smartmeter,<br>
 naval/marine/submarine communications, aviation beacons<br>
+signals hunting, pattern detection and bioresonance feedback<br>
 
 - **upper sideband demodulator:**<br>
-select, filter, up/downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
-
-- **spectrogram:**<br>
-logging and averaging of data up to one year<br>
+downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
+VLF SDR, LF continous wave, Grimeton Radio SAQ receiver<br>
+ultrasonic, infrasound, sonar and sonography converter<br>
+bat detector<br>
 
 - **oscilloscope**<br>
 signal integrity and continuity, clipping and distortions<br>
@@ -109,7 +108,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - processing of "hidden bins" in logview, no missing data
 - smart buttons replace options and setting-screens, no invalid parameters possible
 - single volume control for the whole signaltrain
-- every setting is seamlessly changed on-the-fly
+- every setting is seamlessly changeable on-the-fly
 - direct hardware access for 24bit, 192kHz stereo audio soundcards
 </details><br>
 
