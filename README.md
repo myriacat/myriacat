@@ -91,14 +91,14 @@ inspection of motors and gearboxes, speaker detection<br><br>
 <details>
 <summary><b>features:</b> <sub><sup><i>click to expand</i></sup></sub></summary><br>
 
-- designed and written in C, with low level ALSA and OpenGL acces
-- multithreaded in-house DSP kernel, no external libraries
-- FFT complex transform, DIT, inplace, radix2, based on Cooley Tukey
-- window size from 1024 to 262144 samples
+- designed and written in C, with low level ALSA and OpenGL access
+- multithreaded in-house DSP kernel, without external libraries
+- complex Fourier Transformation, DIT, inplace, radix2, based on Cooley Tukey
+- FFT window size from 1024 to 262144 samples
 - samplerate from 275sps to 192kSps, 24bit 
 - powerspectrum resolution up to 1 millihertz
 - demodulator bandwith from sub 1Hz to full bandwith
-- windowsize from 256*160 pixels to 4K fullscreen
+- window size from 256*160 pixels to 4K fullscreen
 - waterfall logging of up to a year with scroll time display
 - ruler to mark and measure data & harmonic series markers
 - overlap-add FFT convolution filter for sideband demodulator
