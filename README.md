@@ -100,14 +100,14 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - demodulator bandwith from sub 1Hz to full bandwith
 - window size from 256*160 pixels to 4K fullscreen
 - waterfall logging of up to a year with scroll time display
-- ruler to mark and measure data & harmonic series markers
+- measuring ruler & harmonic series markers
 - overlap-add FFT convolution filter for sideband demodulator
 - vertical flank steepness (brickwall) filter without phaseshift
-- A-weighting filter according to internation standard IEC 61672:2003
-- processing of "hidden bins" in logview, no missing data
+- A-weighting filter according to international standard IEC 61672:2003
+- hidden bin processing in log-view, no missing data
 - smart buttons replace options and setting-screens, no invalid parameters possible
 - single volume control for the whole signaltrain
-- every setting is seamlessly changeable on-the-fly
+- every configuration is seamlessly changeable on-the-fly
 - direct hardware access for 24bit, 192kHz stereo audio soundcards
 </details><br>
 
