@@ -65,7 +65,7 @@ pixelexact linear visualization of analog signals for scientific research<br>
 Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
 Ham radio, panadapter, ripple control, DCF77, smartmeter,<br>
 naval/marine/submarine communications, alpha navigation, aviation beacons<br>
-signals hunting, pattern detection and bioresonance feedback<br>
+signal hunting, pattern detection and bioresonance feedback<br>
 
 - **upper sideband demodulator:**<br>
 downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
@@ -108,7 +108,6 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - smart buttons replace options and setting-screens, no invalid parameters possible
 - single volume control for the whole signaltrain
 - every configuration is seamlessly changeable on-the-fly
-- direct hardware access for 24bit, 192kHz stereo audio soundcards
 </details><br>
 
 
