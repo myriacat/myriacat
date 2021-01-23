@@ -84,8 +84,8 @@ polar view of stereo image width and position<br>
 mono compatibility of the stereo signal<br>
 
 - **cepstrum:**<br>
-inspection of motors and gearboxes, speaker detection<br><br>
-</details>
+inspection of motors and gearboxes, speaker detection<br>
+</details><br>
 
 
 <details>
@@ -108,7 +108,7 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - smart buttons replace options and setting-screens, no invalid parameters possible
 - single volume control for the whole signaltrain
 - every configuration is seamlessly changeable on-the-fly
-</details><br>
+</details>
 
 
 <details>
@@ -123,7 +123,7 @@ adjusted colors<br>
 
 - **v1.0**<br>
 first public release<br><br>
-</details>
+</details><br>
 
 
 
