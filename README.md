@@ -115,10 +115,10 @@ inspection of motors and gearboxes, speaker detection<br><br>
 <summary><b>changelog:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **v1.1**<br>
-adapt shading of main spectrum to fix mesa driver changes<br>
+adapt main spectrum shading to new mesa driver specification<br>
 change goniometer presentation to fix software rendering bug<br>
 convert ruler seconds to timestamp<br>
-update small font spacing<br>
+update font spacing<br>
 adjusted colors<br>
 
 - **v1.0**<br>
