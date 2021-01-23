@@ -120,6 +120,11 @@ change goniometer presentation to fix software rendering bug<br>
 convert ruler seconds to timestamp<br>
 update font spacing<br>
 adjusted colors<br>
+tested on:<br>
+Mint cinnamon 18.3 - 20.1,<br>
+Ubuntu Gnome 20.10,<br>
+Debian KDE Plasma 10.7.0 and<br>
+Manjaro xfce 20.2.1<br>
 
 - **v1.0**<br>
 first public release<br><br>
