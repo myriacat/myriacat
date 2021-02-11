@@ -107,7 +107,8 @@ inspection of motors and gearboxes, speaker detection<br><br>
 - hidden bin processing in log-view, no missing data
 - smart buttons replace options and setting-screens, no invalid parameters possible
 - single volume control for the whole signaltrain
-- every configuration is seamlessly changeable on-the-fly<br><br>
+- every configuration is seamlessly changeable on-the-fly
+- savestate memorizes all settings for next use<br><br>
 </details>
 
 
