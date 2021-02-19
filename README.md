@@ -2,7 +2,7 @@
 
 
 ## *myriacat*
-- Linux audio spectrum analyzer with SDR
+- Linux audio spectrum analyzer with VLF SDR
 - 4K fullscreen, fluid realtime Display
 - fast, intuitive, portable & lightweight<br><br>
 
@@ -64,13 +64,15 @@ lossy compression quality analysis<br>
 pixelexact linear visualization of analog signals for scientific research<br>
 Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
 Ham radio, panadapter, ripple control, DCF77, smartmeter,<br>
-naval/marine/submarine communications, alpha navigation, aviation beacons<br>
+naval/submarine communications, alpha navigation, aviation beacons<br>
 wideband and narrowband sonogram, passive sonar<br>
 signal hunting, pattern detection and bioresonance feedback<br>
+whale and marine sound visualization<br>
 
 - **upper sideband demodulator:**<br>
 downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
-VLF SDR, LF continous wave, Grimeton Radio SAQ receiver<br>
+LF continuous wave and communications receiver<br>
+VLF SDR, Grimeton Radio SAQ receiver<br>
 ultrasonic, infrasound, sonar and sonography converter<br>
 bat detector<br>
 
