@@ -84,7 +84,10 @@ polar view of stereo image width and position<br>
 mono compatibility of the stereo signal<br>
 
 - **cepstrum:**<br>
-inspection of motors and gearboxes, speaker detection<br><br>
+inspection of motors and gearboxes,<br>
+accoustic signature vessel identification,<br>
+DEMON (Detection of Envelope Modulation on Noise),
+speaker detection<br><br>
 </details>
 
 
