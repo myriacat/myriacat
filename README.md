@@ -65,6 +65,7 @@ pixelexact linear visualization of analog signals for scientific research<br>
 Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
 Ham radio, panadapter, ripple control, DCF77, smartmeter,<br>
 naval/marine/submarine communications, alpha navigation, aviation beacons<br>
+wideband and narrowband sonogram, passive sonar<br>
 signal hunting, pattern detection and bioresonance feedback<br>
 
 - **upper sideband demodulator:**<br>
