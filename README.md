@@ -14,7 +14,7 @@
 unzip and type `./myriacat` to run.<br>
 on exit, `myriaconf.txt` with editable input devices is created.<br>
 minimum requirements: Linux 64bit, X11, OpenGL<br>
-recommended soundcard: 192kHz 24bit, onboard or PCIe<br>
+recommended soundcard: 192kHz 24bit recording, onboard or PCIe<br>
 
 
 <details>
