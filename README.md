@@ -26,9 +26,9 @@ you need a virtual adapter, a software or a hardware loopback. (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
 
 - **can't change "default" audio device:**<br>
-the default device works excellent for all audio measurements.<br>
-for extended analysis outside the HiFi range, a 24bit -<br>
-192kHz stereo onboard or PCIe adapter is recommended.<br>
+your computer might use a 16bit soundcard which cannot be addressed directly by myriacat.
+the default adapter is provided by the OS, which is good for all audio measurements.<br>
+for extended analysis outside the HiFi range, a 24bit adapter is recommended.<br>
 
 - **change color of the spectrum**<br>
 via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
