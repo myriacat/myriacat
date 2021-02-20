@@ -65,6 +65,7 @@ visual feedback for vocalists and content creators<br>
 evaluate harmonics, frequency response curves, acoustic characteristics measurements<br>
 instrument tuning, note training, vocal aid<br>
 lossy compression quality analysis<br>
+whale and marine sound visualization<br>
 
 - **linear view:**<br>
 pixelexact linear visualization of analog signals for scientific research<br>
@@ -73,7 +74,6 @@ Ham radio, panadapter, ripple control, DCF77, smartmeter<br>
 naval/submarine communications, alpha navigation, aviation beacons<br>
 wideband and narrowband sonogram, passive sonar<br>
 signal hunting, pattern detection and bioresonance feedback<br>
-whale and marine sound visualization<br>
 
 - **upper sideband demodulator:**<br>
 downconvert and listen to selected bandwidths from 270 millihertz to full 96kHz<br>
