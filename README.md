@@ -26,7 +26,7 @@ you need a virtual adapter, a software or a hardware loopback. (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
 
 - **can't change "default" audio device:**<br>
-your computer might use a 16bit soundcard which cannot be addressed directly by myriacat.
+your computer might use a 16bit soundcard which cannot be addressed directly by myriacat.<br>
 the default adapter is provided by the OS, which is good for all audio measurements.<br>
 for extended analysis outside the HiFi range, a 24bit adapter is recommended.<br>
 
