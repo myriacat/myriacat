@@ -68,7 +68,7 @@ lossy compression quality analysis<br>
 - **linear view:**<br>
 pixelexact linear visualization of analog signals for scientific research<br>
 Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
-Ham radio, panadapter, ripple control, DCF77, smartmeter,<br>
+Ham radio, panadapter, ripple control, DCF77, smartmeter, powerLAN<br>
 naval/submarine communications, alpha navigation, aviation beacons<br>
 wideband and narrowband sonogram, passive sonar<br>
 signal hunting, pattern detection and bioresonance feedback<br>
