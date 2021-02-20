@@ -25,8 +25,8 @@ you need a virtual adapter, a software or a hardware loopback. (cable)<br>
 easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
 
 - **can't change "default" audio device:**<br>
-the default device works excellent for all audiomeasurements.<br>
-for extended analysis outside the HiFi range a 24bit,<br>
+the default device works excellent for all audio measurements.<br>
+for extended analysis outside the HiFi range, a 24bit -<br>
 192kHz stereo onboard or PCIe adapter is recommended.<br>
 
 - **change color of the spectrum**<br>
