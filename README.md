@@ -1,10 +1,14 @@
 ![myriacat screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
-*caption*
 
 
-<p float="left">  
+<p float="left">
   
-  <img src="../main/resources/block_diagram.png" width="220" />  
+  <figure>
+    <img src="{{site.url}}/assets/image.jpg" />
+    <img src="../main/resources/block_diagram.png" alt="screen1" width="220" />
+    <figcaption>This is my caption text.</figcaption>
+  </figure>
+  
   <img src="../main/resources/block_diagram.png" width="220" />
   <img src="../main/resources/block_diagram.png" width="220" />
 </p>
