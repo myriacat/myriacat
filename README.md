@@ -1,11 +1,11 @@
 ![myriacat screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
 
 
-
-|![screen1](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)|![screen2](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)|![screen3](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)||
-|:---:|:---:|:---:|:---:|
-| screen1 | screen2 | screen3 ||
-
+<p float="left">  
+  <img src="../main/resources/block_diagram.png" width="220" />
+  <img src="../main/resources/block_diagram.png" width="220" />
+  <img src="../main/resources/block_diagram.png" width="220" />
+</p>
 
 
 
