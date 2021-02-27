@@ -3,7 +3,7 @@
 
 ## *myriacat*
 - Linux audio spectrum analyzer with VLF SDR
-- 4K fullscreen, fluid realtime Display
+- up to **4K fullscreen**, fluid realtime Display
 - fast, intuitive, portable & lightweight<br><br>
 
 
