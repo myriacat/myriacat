@@ -1,4 +1,4 @@
-![myriacat screenshot](../main/resources/screen21.png)
+![myriacat screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
 
 
 ## *myriacat*
