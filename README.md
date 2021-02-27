@@ -2,7 +2,11 @@
 
 
 <p float="left">  
+  
   <img src="../main/resources/block_diagram.png" width="220" />
+  *Fig. 2: The minimum dominating set of a graph*
+  
+  
   <img src="../main/resources/block_diagram.png" width="220" />
   <img src="../main/resources/block_diagram.png" width="220" />
 </p>
