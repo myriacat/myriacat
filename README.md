@@ -4,7 +4,6 @@
 <p float="left">
   
   <figure>
-    <img src="{{site.url}}/assets/image.jpg" />
     <img src="../main/resources/block_diagram.png" alt="screen1" width="220" />
     <figcaption>This is my caption text.</figcaption>
   </figure>
