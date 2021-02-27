@@ -1,15 +1,6 @@
 ![myriacat screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
 
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/myriacat/myriacat/main/resources/pocket.png" alt="pocket_size" width="220" />  
-  <img src="https://raw.githubusercontent.com/myriacat/myriacat/main/resources/2K.png" alt="2K_fullscreen" width="220" />  
-  <img src="https://raw.githubusercontent.com/myriacat/myriacat/main/resources/4K.png" alt="4K_fullscreen" width="220" />
-</p>
-
-
-
-
 ## *myriacat*
 - Linux audio spectrum analyzer with VLF SDR
 - up to **4K fullscreen**, fluid realtime Display
