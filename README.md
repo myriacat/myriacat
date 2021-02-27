@@ -2,14 +2,9 @@
 
 
 <p float="left">
-  
-  <figure>
-    <img src="../main/resources/block_diagram.png" alt="screen1" width="220" />
-    <figcaption>This is my caption text.</figcaption>
-  </figure>
-  
-  <img src="../main/resources/block_diagram.png" width="220" />
-  <img src="../main/resources/block_diagram.png" width="220" />
+  <img src="../main/resources/block_diagram.png" alt="screen1" width="220" />
+  <img src="../main/resources/block_diagram.png" alt="screen2" width="220" />
+  <img src="../main/resources/block_diagram.png" alt="screen3" width="220" />
 </p>
 
 
