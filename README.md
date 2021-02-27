@@ -1,6 +1,18 @@
 ![myriacat screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
 
 
+
+|![screen1](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
+|![screen2](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
+|![screen3](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
+|
+|:---:|:---:|:---:|
+| screen1 | screen2 | screen3 |
+
+
+
+
+
 ## *myriacat*
 - Linux audio spectrum analyzer with VLF SDR
 - up to **4K fullscreen**, fluid realtime Display
