@@ -2,10 +2,7 @@
 
 
 
-|![screen1](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
-|![screen2](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
-|![screen3](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
-|
+|![screen1](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)|![screen2](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)|![screen3](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)|
 |:---:|:---:|:---:|
 | screen1 | screen2 | screen3 |
 
