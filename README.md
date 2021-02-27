@@ -2,9 +2,9 @@
 
 
 <p float="left">
-  <img src="../main/resources/block_diagram.png" alt="screen1" width="220" />
-  <img src="../main/resources/block_diagram.png" alt="screen2" width="220" />
-  <img src="../main/resources/block_diagram.png" alt="screen3" width="220" />
+  <img src="https://raw.githubusercontent.com/myriacat/myriacat/main/resources/pocket.png" alt="pocket_size" width="220" />  
+  <img src="https://raw.githubusercontent.com/myriacat/myriacat/main/resources/2K.png" alt="2K_fullscreen" width="220" />  
+  <img src="https://raw.githubusercontent.com/myriacat/myriacat/main/resources/4K.png" alt="4K_fullscreen" width="220" />
 </p>
 
 
