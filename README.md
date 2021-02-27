@@ -95,7 +95,7 @@ mono compatibility of the stereo signal<br>
 - **cepstrum:**<br>
 inspection of motors and gearboxes,<br>
 accoustic signature vessel identification,<br>
-DEMON (Detection of Envelope Modulation on Noise),
+DEMON (Detection of Envelope Modulation on Noise),<br>
 speaker detection<br><br>
 </details>
 
