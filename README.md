@@ -87,7 +87,7 @@ bat detector<br>
 check for signal integrity and continuity<br>
 catch clipping, offset and distortions<br>
 
-- **vectorscope**<br>
+- **vectorscope, goniometer**<br>
 polar view of stereo image width and position<br>
 
 - **phase correlation meter**<br>
