@@ -33,19 +33,18 @@ only 24bit HW can be addressed directly, others will be only available under "de
 via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
 
 - **playback of a 192ksps audiofile is cutoff at 22kHz**<br>
-some distributions are capped at 22kHz audio.<br>
+some distributions are capped at 22kHz audio for playback.<br>
 for audiophiles, specific HiFi/ HiEnd tests or other interests, those settings can be changed.<br>
-it is not advised to use this configuration permanently.<br><br>
+it is not advised to use this configuration permanently.<br>
+<br>
 this is for Mint/Ubuntu with Pulseaudio. other distros might work different.<br>
 do this on your own risk! - audio hardware is usually only designed for 20Hz - 20kHz.<br><br>
 `cat /proc/asound/card0/pcm0p/sub0/hw_params` usually shows "rate 44100"<br>
 `nano /etc/pulse/daemon.conf` remove the ";" in front of "; default-sample-rate = 192000"<br>
 `pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
 `cat /proc/asound/card0/pcm0p/sub0/hw_params` will show "rate 192000" now<br><br>
-download software generated **[96kHz_sine.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
-play it with any good audio player (vlc, xplayer, ..)<br>
-set myriacat to normal linear mode (music button off), and<br>
-change sps to 192k, channel to L+R, and realtime.<br>
+play software generated **[96kHz_sine.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
+set myriacat to normal linear mode (music button off), 192k, L+R, and realtime.<br>
 best viewed with inital window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
 its generally not usefull to use this settings.<br>
 myriacat talks directly to the low level alsa hardware interface and can use<br>
