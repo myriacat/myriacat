@@ -22,7 +22,7 @@
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
   
 - **minimum requirements:**<br>
-Linux 64bit with Alsa Soundsystem, X11 and OpenGL (Mint, Ubuntu, Debian, Manajaro, .. )<br>
+Linux 64bit with Alsa Soundsystem, X11 and OpenGL (Mint, Ubuntu, Debian, Manjaro, .. )<br>
 for extended analysis outside the HiFi range, a 24bit/192kHz adapter is recommended.<br>
 
 - **configuration of custom soundcards:**<br>
@@ -38,7 +38,6 @@ easiest way with pulseaudio is to install "pavucontrol" and set "monitor of buil
 - **can't change "default" audio device:**<br>
 your computer might use a 16bit soundcard which cannot be addressed directly by myriacat.<br>
 the default adapter is provided by the OS, which is good for all audio measurements.<br>
-for extended analysis outside the HiFi range, a 24bit adapter is recommended.<br>
 
 - **change color of the spectrum**<br>
 via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
