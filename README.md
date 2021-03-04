@@ -35,9 +35,9 @@ via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3<
 - **playback of a 192ksps audiofile is cutoff at 22kHz**<br>
 some distributions are capped at 22kHz audio for playback.<br>
 for audiophiles, specific HiFi/ HiEnd tests or other interests, those settings can be changed.<br>
-it is not advised to use this configuration permanently.<br><br>
 this is for Mint/Ubuntu with Pulseaudio. other distros might work different.<br>
-do this on your own risk! - audio hardware is usually only designed for 20Hz - 20kHz.<br><br>
+do this on your own risk! - audio hardware is usually only designed for 20Hz - 20kHz.<br>
+it is not advised to use this configuration permanently.<br><br>
 `cat /proc/asound/card0/pcm0p/sub0/hw_params` usually shows "rate 44100"<br>
 `nano /etc/pulse/daemon.conf` remove the ";" in front of "; default-sample-rate = 192000"<br>
 `pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
