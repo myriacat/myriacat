@@ -1,8 +1,6 @@
 ![myriacat application screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/screen21.png)
-
-
-
-
+<br>
+<br>
 
 ## ![myriacat name sign](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/namesign.png)
 - Linux audio spectrum analyzer with VLF SDR
