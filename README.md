@@ -18,7 +18,6 @@
 > this changes the source for myriacat only, and won't alter other audiosettings.
 
 <br>
-<br>
 
 **[download](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)**, 
 unzip and type `./myriacat` to run.<br>
@@ -26,6 +25,7 @@ on exit, `myriaconf.txt` with editable input devices is created.<br>
 minimum requirements: Linux 64bit, X11, OpenGL<br>
 recommended soundcard: 192kHz 24bit recording<br>
 
+<br>
 
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
