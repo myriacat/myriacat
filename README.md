@@ -18,6 +18,12 @@ minimum requirements: Linux 64bit, X11, OpenGL<br>
 recommended soundcard: 192kHz 24bit recording<br>
 
 
+> 💡 **use myriacat as spectrum anaylzer for your music:**
+> linux does not route the speaker-output back to programs, the easiest way to monitor the audiostream
+> is to install "pavucontrol", and set "monitor of built-in Audio" at the "recording" tab.
+> this changes the source for myriacat only, and won't alter other audiosettings.
+
+
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
