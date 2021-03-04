@@ -6,24 +6,15 @@
 - Linux audio spectrum analyzer with VLF SDR
 - up to **4K fullscreen**, fluid realtime Display
 - fast, intuitive, portable & lightweight<br><br>
-
-
-
-[![myriacat application screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/downloadbutton.png)](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)
-
+- get newest **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)** here
 
 <img src="../main/resources/block_diagram.png" width="560" />
 <br>
-
 
 > 💡 **use myriacat as spectrum anaylzer for your music:**<br>
 > linux does not route the speaker-output back to programs, the easiest way is<br>
 > to install "pavucontrol", and set "monitor of built-in Audio" at the recording tab.<br>
 > this changes the source for myriacat only, and won't alter other audiosettings.
-
-<br>
-
-**[download](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)**, 
 
 <br>
 <details>
