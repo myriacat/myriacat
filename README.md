@@ -12,7 +12,7 @@
 <img src="../main/resources/block_diagram.png" width="560" />
 <br>
 
-> 💡 **use myriacat as spectrum analyzer for your music:**<br>
+> 💡 **use myriacat as spectrum analyzer for your music/youtube etc:**<br>
 > linux does not route the speaker-output back to programs, the easiest way is<br>
 > to install "pavucontrol", and set "monitor of built-in Audio" at the recording tab.<br>
 
@@ -24,19 +24,10 @@
 Linux 64bit with Alsa Soundsystem, X11 and OpenGL (Mint, Ubuntu, Debian, Manjaro, .. )<br>
 for extended analysis outside the HiFi range, a 24bit/192kHz adapter is recommended.<br>
 
-- **configuration of custom soundcards:**<br>
+- **configuration:**<br>
 on exit, `myriaconf.txt` with editable input devices is created.<br>
 available devices can be listed with `arecord -l`<br>
-only 24bit HW can be addressed directly by myriacat, others will be only available under default<br>
-
-- **line in and microphone works, but no display when music/youtube/etc.. is played:**<br>
-linux does not route the speaker-output back to programs.<br>
-you need a virtual adapter, a software or a hardware loopback. (cable)<br>
-easiest way with pulseaudio is to install "pavucontrol" and set "monitor of built-in Audio" under recording.<br>
-
-- **can't change "default" audio device:**<br>
-your computer might use a 16bit soundcard which cannot be addressed directly by myriacat.<br>
-the default adapter is provided by the OS, which is good for all audio measurements.<br>
+only 24bit HW can be addressed directly, others will be only available under "default"<br>
 
 - **change color of the spectrum**<br>
 via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
