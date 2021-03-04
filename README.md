@@ -5,8 +5,8 @@
 ## ![myriacat name sign](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/namesign.png)
 - Linux audio spectrum analyzer with VLF SDR
 - up to **4K fullscreen**, fluid realtime Display
-- fast, intuitive, portable & lightweight<br><br>
-- get newest **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)** here
+- fast, intuitive, portable & lightweight<br>
+- get newest **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)** here<br>
 
 <img src="../main/resources/block_diagram.png" width="560" />
 <br>
