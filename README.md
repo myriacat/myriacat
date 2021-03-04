@@ -8,7 +8,13 @@
 - fast, intuitive, portable & lightweight<br><br>
 
 
-<img src="../main/resources/block_diagram.png" width="560" />
+<img src="../main/resources/block_diagram.png" width="560" /><br>
+
+
+> 💡 **use myriacat as spectrum anaylzer for your music:**<br>
+> linux does not route the speaker-output back to programs, the easiest way to monitor the audiostream<br>
+> is to install "pavucontrol", and set "monitor of built-in Audio" at the "recording" tab.<br>
+> this changes the source for myriacat only, and won't alter other audiosettings.<br><br>
 
 
 **[download](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)**, 
@@ -16,12 +22,6 @@ unzip and type `./myriacat` to run.<br>
 on exit, `myriaconf.txt` with editable input devices is created.<br>
 minimum requirements: Linux 64bit, X11, OpenGL<br>
 recommended soundcard: 192kHz 24bit recording<br>
-
-
-> 💡 **use myriacat as spectrum anaylzer for your music:**
-> linux does not route the speaker-output back to programs, the easiest way to monitor the audiostream
-> is to install "pavucontrol", and set "monitor of built-in Audio" at the "recording" tab.
-> this changes the source for myriacat only, and won't alter other audiosettings.
 
 
 <details>
