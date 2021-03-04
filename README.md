@@ -12,7 +12,7 @@
 <img src="../main/resources/block_diagram.png" width="560" />
 <br>
 
-> 💡 **use myriacat as spectrum anaylzer for your music:**<br>
+> 💡 **use myriacat as spectrum analyzer for your music:**<br>
 > linux does not route the speaker-output back to programs, the easiest way is<br>
 > to install "pavucontrol", and set "monitor of built-in Audio" at the recording tab.<br>
 > this changes the source for myriacat only, and won't alter other audiosettings.
