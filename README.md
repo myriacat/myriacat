@@ -20,15 +20,19 @@
 <br>
 
 **[download](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)**, 
-unzip and type `./myriacat` to run.<br>
-on exit, `myriaconf.txt` with editable input devices is created.<br>
-minimum requirements: Linux 64bit, X11, OpenGL<br>
-recommended soundcard: 192kHz 24bit recording<br>
 
 <br>
-
 <details>
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
+  
+- **minimum requirements:**<br>
+Linux 64bit with Alsa Soundsystem, X11 and OpenGL (Mint, Ubuntu, Debian, Manajaro, .. )<br>
+for extended analysis outside the HiFi range, a 24bit/192kHz adapter is recommended.<br>
+
+- **configuration of custom soundcards:**<br>
+on exit, `myriaconf.txt` with editable input devices is created.<br>
+available devices can be listed with `arecord -l`<br>
+only 24bit HW can be addressed directly by myriacat, others will be only available under default<br>
 
 - **line in and microphone works, but no display when music/youtube/etc.. is played:**<br>
 linux does not route the speaker-output back to programs.<br>
