@@ -8,6 +8,10 @@
 - fast, intuitive, portable & lightweight<br><br>
 
 
+
+[![myriacat application screenshot](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/downloadbutton.png)](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)
+
+
 <img src="../main/resources/block_diagram.png" width="560" />
 <br>
 
