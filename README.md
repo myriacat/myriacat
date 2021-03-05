@@ -43,8 +43,8 @@ it is not advised to use this configuration permanently.<br><br>
 `pulseaudio -k && sudo alsa force-reload` to restart the driver and sound subsystem<br>
 `cat /proc/asound/card0/pcm0p/sub0/hw_params` will show "rate 192000" now<br><br>
 play software generated **[96kHz_sine.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
-set myriacat to normal linear mode (music button off), 192k, L+R, and realtime.<br>
-best viewed with inital window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
+set myriacat to linear mode (music button off), 192k, L+R, and realtime.<br>
+best viewed with initial window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
 its generally not usefull to use this settings.<br>
 myriacat talks directly to the low level alsa hardware interface and can use<br>
 192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br><br>
