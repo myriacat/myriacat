@@ -3,7 +3,7 @@
 <br>
 
 ## ![myriacat name sign](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/namesign.png)
-- Linux audio spectrum analyzer with VLF SDR
+- Linux audio spectrum analyzer with SDR
 - up to **4K fullscreen**, fluid realtime Display
 - fast, intuitive, portable & lightweight<br>
 - get newest **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)** here<br>
@@ -66,10 +66,10 @@ whale and marine sound visualization<br>
 
 - **linear view:**<br>
 pixelexact linear visualization of analog signals for scientific research<br>
-Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
-radio astronomy, ham radio, panadapter, ripple control, DCF77, smartmeter<br>
 naval/submarine communications, alpha navigation, aviation beacons<br>
 wideband and narrowband sonogram, passive sonar, signal hunting<br>
+radio astronomy, ham radio, panadapter, ripple control, DCF77, smartmeter<br>
+Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
 forensic analysis, pattern detection<br>
 bioresonance feedback<br>
 
