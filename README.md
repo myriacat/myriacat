@@ -45,7 +45,7 @@ it is not advised to use this configuration permanently.<br><br>
 play software generated **[96kHz_sine.wav](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/96kHz_sine.wav)** (192kSps, 0 - 96kHz sweep, 16bit, 10 seconds, low volume)<br>
 set myriacat to linear mode (music button off), 192k, L+R, and realtime.<br>
 best viewed with initial window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
-its generally not usefull to use this settings.<br>
+its generally not useful to use this settings.<br>
 myriacat talks directly to the low level alsa hardware interface and can use<br>
 192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br><br>
 </details>
@@ -92,7 +92,7 @@ mono compatibility of the stereo signal<br>
 
 - **cepstrum:**<br>
 inspection of motors and gearboxes,<br>
-accoustic signature vessel identification,<br>
+acoustic signature vessel identification,<br>
 DEMON (Detection of Envelope Modulation on Noise),<br>
 speaker detection<br><br>
 </details>
@@ -107,7 +107,7 @@ speaker detection<br><br>
 - FFT window size from 1024 to 262144 samples
 - samplerate from 275sps to 192kSps, 24bit 
 - powerspectrum resolution up to 1 millihertz
-- demodulator bandwith from sub 1Hz to full bandwith
+- demodulator bandwidth from sub 1Hz to full bandwidth
 - window size from 256*160 pixels to 4K fullscreen
 - waterfall logging of up to a year with scroll time display
 - measuring ruler & harmonic series markers
