@@ -66,10 +66,11 @@ whale and marine sound visualization<br>
 
 - **linear view:**<br>
 pixelexact linear visualization of analog signals for scientific research<br>
+ham radio, panadapter, ripple control, DCF77, smartmeter<br>
 naval/submarine communications, alpha navigation, aviation beacons<br>
 wideband and narrowband sonogram, passive sonar, signal hunting<br>
-radio astronomy, ham radio, panadapter, ripple control, DCF77, smartmeter<br>
-Schumann resonances, seismic logging, lightnings, whistlers, spherics<br>
+radio astronomy, SID monitoring, lightnings, whistlers, spherics<br>
+seismic logging, schumann resonances<br>
 forensic analysis, pattern detection<br>
 bioresonance feedback<br>
 
