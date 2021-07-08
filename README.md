@@ -50,8 +50,9 @@ myriacat talks directly to the low level alsa hardware interface and can use<br>
 192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br>
   
 - **pavucontrol resets monitormode on sps changes**<br>
-new versions of PulseAudio will reset recording to monitor-mode on every sps-change,<br>
-if microphone/cable is not detected (unplugged). workarounds depend on motherboard hardware.<br><br>
+new version of PulseAudio will reset recording to monitor-mode<br>
+on every sps-change if microphone/cable is not detected (unplugged).<br>
+workarounds depend on motherboard hardware.<br><br>
 </details>
 
 
