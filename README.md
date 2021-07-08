@@ -47,7 +47,11 @@ set myriacat to linear mode (music button off), 192k, L+R, and realtime.<br>
 best viewed with initial window-size (1024 pixel) and 2*zoom factor (2048 FFT size).<br><br>
 its generally not useful to use this settings.<br>
 myriacat talks directly to the low level alsa hardware interface and can use<br>
-192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br><br>
+192kSps from the HW input anytime, regardless of pulseaudio-configurations.<br>
+  
+- **pavucontrol resets monitormode on sps changes**<br>
+new versions of PulseAudio will reset recording to monitor-mode on every sps-change,<br>
+if microphone/cable is not detected (unplugged). workarounds depend on motherboard hardware.<br><br>
 </details>
 
 
