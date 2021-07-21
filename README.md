@@ -127,7 +127,7 @@ speaker detection<br><br>
 <summary><b>changelog:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
 - **v1.2**<br>
-extended long time measurements up to 52 Years<br>
+extended long time measurements up to >100 Years<br>
 reversed average selector<br>
 updated colors<br>
 minimal visual changes<br>
