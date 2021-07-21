@@ -1,5 +1,4 @@
-
-myriacat software License - Verison 1.1 - Novemeber 3rd, 2020
+myriacat software License - Verison 1.2 - July 21th, 2021
 
 
 Permission is hereby granted, free of charge, to use the Software in any environment,
@@ -23,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 
 This Licence file must be included with all copies of the Software.
 
-Copyright (C) 2020 - the myriacat creator
+Copyright (C) 2021 - the myriacat creator
 
 
 
