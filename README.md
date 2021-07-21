@@ -132,7 +132,6 @@ reversed average selector<br>
 updated colors<br>
 minimal visual changes<br>
 enforce max screensize of 4096*2048<br>
-toggle myriacat logo with <kbd>c</kbd> button<br>
   
 - **v1.1**<br>
 adapt main spectrum shading to new mesa driver specification<br>
