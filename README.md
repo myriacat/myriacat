@@ -3,7 +3,7 @@
 <br>
 
 ## ![myriacat name sign](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/namesign.png)
-- Linux audio spectrum analyzer with SDR
+- Linux audio spectrum analyzer with VLF SDR
 - up to **4K fullscreen**, fluid realtime Display
 - fast, intuitive, portable & lightweight<br>
 - get newest **[myriacat](https://github.com/myriacat/myriacat/releases/latest/download/myriacat_v1.1_beta.tar.gz)** here<br>
@@ -126,6 +126,14 @@ speaker detection<br><br>
 <details>
 <summary><b>changelog:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
 
+- **v1.2**<br>
+extended long time measurements up to 52 Years<br>
+reversed average selector<br>
+updated colors<br>
+minimal visual changes<br>
+enforce max screensize of 4096*2048<br>
+toggle myriacat logo with <kbd>c</kbd> button<br>
+  
 - **v1.1**<br>
 adapt main spectrum shading to new mesa driver specification<br>
 change goniometer presentation to fix software rendering bug<br>
