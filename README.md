@@ -110,7 +110,7 @@ speaker detection<br><br>
 - powerspectrum resolution up to 1 millihertz
 - demodulator bandwidth from sub 1Hz to full bandwidth
 - window size from 256*160 pixels to 4K fullscreen
-- waterfall logging up to > 100 years with scroll time display
+- waterfall logging up to >100 years with scroll time display
 - measuring ruler & harmonic series markers
 - overlap-add FFT convolution filter for sideband demodulator
 - vertical flank steepness (brickwall) filter without phaseshift
