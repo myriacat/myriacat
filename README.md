@@ -14,7 +14,7 @@
 
 > 💡 **use myriacat as spectrum analyzer for your music/youtube etc:**<br>
 > linux does not route the speaker-output back to programs, the easiest way is<br>
-> to install "pavucontrol", and set "monitor of built-in Audio" at the recording tab.<br>
+> to install pavucontrol, and set "monitor of built-in Audio" at the recording tab.<br>
 
 <br>
 <details>
@@ -69,7 +69,7 @@ pixelexact linear visualization of analog signals for scientific research<br>
 ham radio, panadapter, ripple control, DCF77, smartmeter<br>
 naval/submarine communications, alpha navigation, aviation beacons<br>
 wideband and narrowband sonogram, passive sonar, signal hunting<br>
-radio astronomy, SID monitoring, lightnings, whistlers, spherics<br>
+radio astronomy, SID monitoring, lightning detector, whistlers, spherics<br>
 seismic logging, schumann resonances<br>
 forensic analysis, pattern detection<br>
 bioresonance feedback<br>
