@@ -29,6 +29,16 @@ on exit, `myriaconf.txt` with editable input devices is created.<br>
 available devices can be listed with `arecord -l`<br>
 only 24bit HW can be addressed directly, others will be only available under "default"<br>
 
+- **antenna for DX?**<br>
+the common Realtek ALC887 (24bit/192Sps) audio Codec allows<br>
+source impedances up to 40KOhm on the ADC (mic input).<br>
+a cable to a metal Doorframe or Radiator is sufficient to see<br>
+50KW Time signal stations 500 miles away.<br>
+preamplifiers and tuned Antennas are recommended for weak Signals.<br>
+<br>
+16bit USB Audio Dongles often need much lower impendance sources,<br>
+its not possible to receive weak Signals without LF preamplifiers.<br>
+
 - **change color of the spectrum**<br>
 via colorcode in myriaconf.txt, or direct with <kbd>1</kbd>,<kbd>2</kbd>,<kbd>3</kbd> and <kbd>q</kbd>,<kbd>w</kbd>,<kbd>e</kbd><br>
 
