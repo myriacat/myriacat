@@ -34,8 +34,7 @@ the common Realtek ALC887 (24bit/192Sps) audio Codec allows<br>
 source impedances up to 40KOhm on the ADC (mic input).<br>
 a cable to a metal Doorframe or Radiator is sufficient to see<br>
 50KW Time signal stations 500 miles away.<br>
-preamplifiers and tuned Antennas are recommended for weak Signals.<br>
-<br>
+preamplifiers and tuned Antennas are recommended for weak Signals.<br><br>
 16bit USB Audio Dongles often need much lower impendance sources,<br>
 its not possible to receive weak Signals without LF preamplifiers.<br>
 
