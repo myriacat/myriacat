@@ -78,7 +78,7 @@ pixelexact linear visualization of analog signals for scientific research<br>
 ham radio, panadapter, ripple control, DCF77, smartmeter<br>
 naval/submarine communications, alpha navigation, aviation beacons<br>
 wideband and narrowband sonogram, passive sonar, signal hunting<br>
-radio astronomy, SID monitoring, lightning detector, whistlers, spherics<br>
+radio astronomy, SID monitor, lightning detector, whistlers, spherics<br>
 seismic logging, schumann resonances<br>
 forensic analysis, pattern detection<br>
 bioresonance feedback<br>
