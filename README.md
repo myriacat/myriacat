@@ -9,7 +9,7 @@
 - get newest **[myriacat](https://github.com/myriacat/myriacat/releases/download/v1.2/myriacat_1.2.tar.gz)** here<br>
 
 <br>
-<img src="../main/resources/block_diagram.png" width="560" />
+![block diagram](../main/resources/block_diagram.png)
 <br>
 
 > 💡 **use myriacat as spectrum analyzer for your music/youtube etc:**<br>
