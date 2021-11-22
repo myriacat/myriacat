@@ -10,7 +10,6 @@
 
 <br>
 
-![block diagram](../main/resources/block_diagram.png)
 ![block diagram](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/block_diagram.png)
 
 <br>
