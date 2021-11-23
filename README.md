@@ -11,7 +11,6 @@
 <br>
 
 ![block diagram](https://raw.githubusercontent.com/myriacat/myriacat/main/resources/block_diagram.png)
-
 <br>
 
 > 💡 **use myriacat as spectrum analyzer for your music/youtube etc:**<br>
