@@ -72,7 +72,7 @@ visual feedback for vocalists and content creators<br>
 evaluate harmonics, frequency response curves, acoustic characteristics measurements<br>
 instrument tuning, note training, vocal aid<br>
 lossy compression quality analysis<br>
-whale and marine sound visualization<br>
+hydroacoustics, whalesounds, aquatic studies and marine sound visualization<br>
 
 - **linear view:**<br>
 pixelexact linear visualization of analog signals for scientific research<br>
