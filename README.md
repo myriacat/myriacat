@@ -26,7 +26,7 @@ Linux 64bit with Alsa Soundsystem, X11 and OpenGL (Mint, Ubuntu, Debian, Manjaro
 for extended analysis outside the HiFi range, a 24bit/192kHz adapter is recommended.<br>
 
 - **configuration:**<br>
-on exit, `myriaconf.txt` with editable input devices is created.<br>
+on exit, `.myriaconf.txt` with editable input devices is created.<br>
 available devices can be listed with `arecord -l`<br>
 only 24bit HW can be addressed directly, others will be only available under "default"<br>
 
