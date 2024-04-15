@@ -22,8 +22,8 @@
 <summary><b>FAQ:</b> <sub><sup><i>click to expand</i></sup></sub></summary>
   
 - **minimum requirements:**<br>
-Linux 64bit with Alsa Soundsystem, X11 and OpenGL (Mint, Ubuntu, Debian, Manjaro, .. )<br>
-for extended analysis outside the HiFi range, a 24bit/192kHz adapter is recommended.<br>
+Linux 64bit with Alsa audio architecture, X11 and OpenGL (Mint, Ubuntu, Debian, Manjaro, ..)<br>
+for extended analysis outside the HiFi range, a 24bit/192kHz Soundcard is recommended.<br>
 
 - **configuration:**<br>
 on exit, `.myriaconf.txt` with editable input devices is created.<br>
